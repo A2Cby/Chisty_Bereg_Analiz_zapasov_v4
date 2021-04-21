@@ -1,0 +1,568 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "53a0acbd-6657-4a2b-abb6-3449fea580a7",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Главная",
+      "description": ""
+    },
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 36,
+    "rows": 18,
+    "cells": [
+      {
+        "name": "jzeC",
+        "type": "text-image",
+        "col": 16,
+        "row": 0,
+        "colspan": 20,
+        "rowspan": 3,
+        "bounds": {
+          "y": 0,
+          "x": 44.44444444444444,
+          "width": 55.55555555555556,
+          "height": 16.666666666666664
+        }
+      },
+      {
+        "name": "NdkDS",
+        "type": "text-image",
+        "col": 6,
+        "row": 0,
+        "colspan": 10,
+        "rowspan": 3,
+        "bounds": {
+          "y": 0,
+          "x": 16.666666666666664,
+          "width": 27.77777777777778,
+          "height": 16.666666666666664
+        }
+      },
+      {
+        "name": "evWjzN",
+        "type": "text-image",
+        "col": 0,
+        "row": 0,
+        "colspan": 6,
+        "rowspan": 5,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 16.666666666666664,
+          "height": 27.77777777777778
+        }
+      },
+      {
+        "name": "QQp",
+        "type": "text-image",
+        "col": 6,
+        "row": 4,
+        "colspan": 30,
+        "rowspan": 12,
+        "bounds": {
+          "y": 22.22222222222222,
+          "x": 16.666666666666664,
+          "width": 83.33333333333334,
+          "height": 66.66666666666666
+        }
+      },
+      {
+        "name": "KhNSU",
+        "type": "text-image",
+        "col": 0,
+        "row": 5,
+        "colspan": 6,
+        "rowspan": 11,
+        "bounds": {
+          "y": 27.77777777777778,
+          "x": 0,
+          "width": 16.666666666666664,
+          "height": 61.111111111111114
+        }
+      },
+      {
+        "name": "czJFRC",
+        "type": "text-image",
+        "col": 0,
+        "row": 16,
+        "colspan": 6,
+        "rowspan": 2,
+        "bounds": {
+          "y": 88.88888888888889,
+          "x": 0,
+          "width": 16.666666666666664,
+          "height": 11.11111111111111
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "large",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "jzeC",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "alwaysFit",
+          "position": "centerCenter",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/logo.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "NdkDS",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "alwaysFit",
+          "position": "centerCenter",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/A2Logo.jpg"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "czJFRC",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "",
+        "images": [
+          {
+            "id": "jPAxT",
+            "url": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/TAdviser.png"
+              }
+            }
+          },
+          {
+            "id": "MPPPpPJ",
+            "url": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/youtube.png"
+              }
+            }
+          },
+          {
+            "id": "HaHkh",
+            "url": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/LinkedIn.png"
+              }
+            }
+          },
+          {
+            "id": "LQDcQw",
+            "url": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/meta_share_tile.png"
+              }
+            }
+          },
+          {
+            "id": "Nway",
+            "url": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/resources/../content/default/facebook.png??1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535&?1478781641535"
+              }
+            }
+          }
+        ],
+        "background": {
+          "isUsed": true,
+          "size": "alwaysFit",
+          "position": "topCenter",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/image.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "QQp",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "customErrorMessage": {
+            "calcCond": ""
+          },
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[^[%[**Цели проекта:**](4)](inherit)^[%[     •Увеличение гибкости в работе с запасами.](4)\n](inherit)^[%[•](4)%[Управление запасами](4)](inherit)^[%[\n](4)](inherit)^[%[**Цели создания Приложения:**](4)](inherit)^[%[•](4)%[Автоматизация процесса анализа.](4)\n](inherit)^[%[•](4)%[Снижение трудоемкости и сроков подготовки консолидированной аналитической отчетности по остаткам и ](4)%[оборачиваемости.](4)](inherit)^[%[•](4)%[Создание условий для оперативного принятия управленческих решений.](4)\n](inherit)^[%[•](4)%[Анализ запасов.](4)](inherit)^[%[•](4)%[Анализ неликвидов](4)\n](inherit)^[%[•](4)%[Анализ дефицитов.](4)](inherit)^[%[•](4)%[Создание условий для улучшения показателей эффективности деятельности компании.](4)\n](inherit)](inherit)",
+        "images": [],
+        "background": {
+          "isUsed": false,
+          "size": "auto",
+          "position": "topLeft",
+          "url": {}
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "KhNSU",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "customErrorMessage": {
+            "calcCond": ""
+          },
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[**%[#[@[a2c.by](http://a2c.by/)]({\"index\":6,\"color\":\"#4477aa\"})](5)**](center)^[%[#[+375296083700]({\"index\":6,\"color\":\"#4477aa\"})](4)\n](left)^[^[%[#[+375293467478]({\"index\":6,\"color\":\"#4477aa\"})](4)](left)^[#[%[\n](5)]({\"index\":6,\"color\":\"#4477aa\"})](inherit)](inherit)",
+        "images": [],
+        "background": {
+          "isUsed": false,
+          "size": "auto",
+          "position": "topLeft",
+          "url": {}
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "evWjzN",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "alwaysFit",
+          "position": "topCenter",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/217acda1-416c-4645-8344-b406548cf9cf/sense-11.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    }
+  ]
+}

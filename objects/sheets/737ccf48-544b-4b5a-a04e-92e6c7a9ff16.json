@@ -1,0 +1,2190 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "737ccf48-544b-4b5a-a04e-92e6c7a9ff16",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Рейтинги",
+      "description": ""
+    },
+    "rank": 6,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 36,
+    "rows": 18,
+    "cells": [
+      {
+        "name": "68763cc2-1db0-45a8-a8d4-dd1c5ae33959",
+        "type": "qsSimpleList",
+        "col": 27,
+        "row": 0,
+        "colspan": 2,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 75,
+          "width": 5.555555555555555,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "GRGJeh",
+        "type": "variable",
+        "col": 26,
+        "row": 1,
+        "colspan": 10,
+        "rowspan": 2,
+        "bounds": {
+          "y": 5.555555555555555,
+          "x": 72.22222222222221,
+          "width": 27.77777777777778,
+          "height": 11.11111111111111
+        }
+      },
+      {
+        "name": "SNEGtbu",
+        "type": "variable",
+        "col": 0,
+        "row": 1,
+        "colspan": 8,
+        "rowspan": 2,
+        "bounds": {
+          "y": 5.555555555555555,
+          "x": 0,
+          "width": 22.22222222222222,
+          "height": 11.11111111111111
+        }
+      },
+      {
+        "name": "GcJcJW",
+        "type": "variable",
+        "col": 8,
+        "row": 1,
+        "colspan": 8,
+        "rowspan": 2,
+        "bounds": {
+          "y": 5.555555555555555,
+          "x": 22.22222222222222,
+          "width": 22.22222222222222,
+          "height": 11.11111111111111
+        }
+      },
+      {
+        "name": "LpnpHq",
+        "type": "pivot-table",
+        "col": 0,
+        "row": 3,
+        "colspan": 10,
+        "rowspan": 15,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 0,
+          "width": 27.77777777777778,
+          "height": 83.33333333333334
+        }
+      },
+      {
+        "name": "ACCWYBn",
+        "type": "barchart",
+        "col": 10,
+        "row": 3,
+        "colspan": 8,
+        "rowspan": 15,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 27.77777777777778,
+          "width": 22.22222222222222,
+          "height": 83.33333333333334
+        }
+      },
+      {
+        "name": "HJBSW",
+        "type": "barchart",
+        "col": 18,
+        "row": 3,
+        "colspan": 8,
+        "rowspan": 15,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 50,
+          "width": 22.22222222222222,
+          "height": 83.33333333333334
+        }
+      },
+      {
+        "name": "EKMsTHP",
+        "type": "pivot-table",
+        "col": 26,
+        "row": 3,
+        "colspan": 10,
+        "rowspan": 15,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 72.22222222222221,
+          "width": 27.77777777777778,
+          "height": 83.33333333333334
+        }
+      },
+      {
+        "name": "EnSfPP",
+        "type": "variable",
+        "col": 33,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 91.66666666666666,
+          "width": 8.333333333333332,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "vjvFPX",
+        "type": "text-image",
+        "col": 29,
+        "row": 0,
+        "colspan": 4,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 80.55555555555556,
+          "width": 11.11111111111111,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "dpPDd",
+        "type": "DateRangePicker",
+        "col": 24,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 66.66666666666666,
+          "width": 8.333333333333332,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "eRvqk",
+        "type": "filterpane",
+        "col": 0,
+        "row": 0,
+        "colspan": 8,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 22.22222222222222,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "QNGwPcJ",
+        "type": "filterpane",
+        "col": 8,
+        "row": 0,
+        "colspan": 8,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 22.22222222222222,
+          "width": 22.22222222222222,
+          "height": 5.555555555555555
+        }
+      },
+      {
+        "name": "cuzPJG",
+        "type": "filterpane",
+        "col": 16,
+        "row": 0,
+        "colspan": 8,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 44.44444444444444,
+          "width": 22.22222222222222,
+          "height": 5.555555555555555
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "large",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "dpPDd",
+          "qType": "DateRangePicker"
+        },
+        "qMetaDef": {},
+        "qListObjectDef": {
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [
+              "Дата"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qSortCriterias": [
+              {
+                "qSortByState": 1,
+                "qSortByNumeric": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0
+          },
+          "qFrequencyMode": "V",
+          "qInitialDataFetch": [],
+          "qExpressions": [],
+          "qSortCriterias": {
+            "qSortByNumeric": 1,
+            "qSortByState": 1
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "props": {
+          "isSingleDate": false,
+          "minDate": "",
+          "maxDate": "",
+          "startDate": "",
+          "CustomRangesEnabled": false,
+          "locale": "ru",
+          "format": "DD/MM/YYYY",
+          "separator": " - ",
+          "customRangeLabel": "Range",
+          "defaultText": "Выберите дату",
+          "today": "Сегодня",
+          "yesterday": "Вчера",
+          "lastXDays": "Последние $ дней",
+          "thisMonth": "Этот месяц",
+          "lastMonth": "Пред.месяц"
+        },
+        "visualization": "DateRangePicker",
+        "version": 1,
+        "fixed": true,
+        "width": 25,
+        "percent": true,
+        "selectionMode": "CONFIRM",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "table",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "DateRangePicker",
+          "description": "DateRangePicker",
+          "template": "DateRangePicker",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "type": "visualization",
+          "version": "1.1.4",
+          "preview": "preview.png",
+          "author": "Nodier Torres",
+          "homepage": "http://branch.qlik.com/#/project/5697a878dcc497f80ed514bf",
+          "keywords": "qlik-sense, visualization",
+          "license": "",
+          "repository": "",
+          "dependencies": {
+            "qlik-sense": ">=1.0.x"
+          },
+          "previewIconURL": "http://localhost:4848/extensions/DateRangePicker/preview.png"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "vjvFPX",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "text",
+        "markdown": "^[%[**Товары заменители**](3)](right)",
+        "images": [],
+        "background": {
+          "isUsed": false,
+          "size": "auto",
+          "position": "topLeft",
+          "url": {}
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "EnSfPP",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "Товары заменители",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "variableName": "vTovZam",
+        "render": "s",
+        "style": "qlik",
+        "width": "",
+        "customwidth": "",
+        "vert": false,
+        "updateondrag": false,
+        "thinHeader": false,
+        "valueType": "x",
+        "dynamicvalues": "",
+        "alternatives": [
+          {
+            "value": "1",
+            "label": "С учетом",
+            "cId": "DNdGPm"
+          },
+          {
+            "value": "2",
+            "label": "Без учета",
+            "cId": "dHqmzL"
+          }
+        ],
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "rangelabel": false,
+        "visualization": "variable",
+        "variableValue": {
+          "qStringExpression": {
+            "qExpr": "=\"vTovZam\""
+          }
+        },
+        "version": "5.2.3",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Variable",
+          "description": "Variable extension",
+          "template": "variable",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "5.2.3",
+          "type": "visualization",
+          "author": "Erik Wetterberg upper88.com",
+          "contributors": [
+            "Brett Farley contextbi.com"
+          ]
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "68763cc2-1db0-45a8-a8d4-dd1c5ae33959",
+          "qType": "qsSimpleList"
+        },
+        "qExtendsId": "338cd3f7-f044-453e-a401-48c505586ec8",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "EKMsTHP",
+          "qType": "pivot-table"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад],\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС]\n)"
+                ],
+                "qFieldLabels": [
+                  "Измерение"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByLoadOrder": 1,
+                    "qSortByExpression": -1,
+                    "qExpression": {
+                      "qv": "=pick(vRatingY,\r\nNum(Sum([$(vNDS)]), '# ##0,00'),\t// 1. Выручка с НДС\nNum(Sum([$(vbezNDS)]), '# ##0,00'),\t// 2. Выручка без НДС\nNum(Sum([$(vbezNDS)])/Sum(total [$(vbezNDS)]), '0,00%'),\t// 3. % Выручки\nNum(Sum([$(vKolProdazh)]), '# ##0'),\t// 4. Объем продаж в кол-ве\nNum(Sum([$(vKolProdazh)])/Sum(total [$(vKolProdazh)]), '0,00%'),\t// 5. % Объема продаж в кол-ве\nNum(Sum([$(vSebestoimost)]), '# ##0,00'),\t// 6. Себестоимость\nNum(Sum([$(vValovoiDoxod)]), '# ##0,00'),\t// 7. Валовый доход\nNum(Sum([$(vValovoiDoxod)])/Sum([$(vbezNDS)])*100, '0,00%'),\t// 8. % Валового дохода\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nNum(Sum([$(vSummaSkidki)] ), '# ##0,00'),\t// 9. Сумма скидки\nNum(Sum([$(vSummaSkidki)] )/Sum([$(vbezNDS)])*100, '0,00%'),\t// 10. % Скидки\nNum(Sum([$(vKolProdazh)])/count(distinct[Дата]), '# ##0'),\t// 11. Средний объем продаж в кол-ве\nNum(Sum([$(vZakazySum)]), '# ##0,00'),\t// 12. Заказы (сумма)\nNum(Sum([$(vZakazyCount)]), '# ##0'),\t// 13. Заказы (кол-во)\nNum(Sum({<[Тип продажи]={'Возврат'}>} [$(vbezNDS)]), '# ##0,00'),\t// 14. Возвраты\nNum(Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} distinct [Адрес доставки]), '# ##0'),\t// 15. ААД\nNum(Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} distinct [Адрес доставки])/Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} total distinct [Адрес доставки]), '0,00%') // 16. % ААД\n)\n"
+                    }
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": false,
+                "cId": "RaUV",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_COUNTED",
+                "qOtherCounted": {
+                  "qv": "$(vTop)"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qSuppressOther": true,
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_ASCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {
+                "qv": "Итоги"
+              },
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Показатель",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum(Sum([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum(Sum([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum(Sum([Выручка без НДС])/2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\nNum(Count([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\nNum(rand()*15/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\nNum(Avg([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\nNum(Count([Выручка без НДС]), '# ##0'), \t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\nNum(2*rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum(Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50), '# ##0'),\t//Ex-10 Валовый доход (маржа), сумма\nNum(Sum([Выручка без НДС]*50)/Sum(total[Выручка без НДС])/100, '0,00%'),//Ex-11 Рентабельность продаж (маржа), %\nNum(rand()*10/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \nNum(Count([Выручка без НДС])*8, '# ##0'),\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\nNum(Count([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\nNum(Count([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum(Sum([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum(Sum([Выручка без НДС])/Count(distinct(Товар)), '# ##0'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\nNum(Sum([Выручка без НДС])*4, '# ##0'),\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\nNum(Sum([Выручка без НДС])/30, '# ##0'),\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\nNum(Sum([Выручка без НДС])/20, '# ##0'),\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\nNum(Count([Выручка без НДС])*12*rand(), '# ##0'),\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum(Sum([Выручка без НДС])/8, '# ##0'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\nNum(Count([Выручка без НДС])*10*rand(), '# ##0'),\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum(Count([Выручка без НДС])*8*rand(), '# ##0'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum(Count(distinct(Товар))*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\nNum(Count(distinct(Товар))*12, '# ##0'),\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\nNum(Sum([Выручка без НДС])/Sum([Выручка без НДС])*20, '# ##0'),\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum(Sum([Выручка без НДС])*3, '# ##0'),\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\nNum(Sum([Выручка без НДС])*9, '# ##0'),\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \nNum(rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ",",
+                  "qThou": " "
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "uwfmxr",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                },
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qLabel": "Удельный вес",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum((Sum([Выручка без НДС])*2)/(Sum(total[Выручка без НДС])*2), '0,00%'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum((Sum([Выручка без НДС]))/(Sum(total[Выручка без НДС])), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum((Sum([Выручка без НДС])/2)/(Sum(total[Выручка без НДС])/2), '0,00%'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\n'-', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum((Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50))/(Sum(total[Выручка без НДС])-Sum(total[Выручка без НДС]/2.50)), '0,00%'),\t//Ex-10 Валовый доход (маржа), сумма\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-11 Рентабельность продаж (маржа), %\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum((Sum([Выручка без НДС])*5)/(Sum(total[Выручка без НДС])*5), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum((Sum([Выручка без НДС])*10)/(Sum(total[Выручка без НДС])*10), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum((Sum([Выручка без НДС])/Count(distinct(Товар)))/(Sum(total[Выручка без НДС])/Count(distinct(Товар))), '0,00%'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum((Sum([Выручка без НДС])/8)/(Sum(total[Выручка без НДС])/8), '0,00%'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum((Count([Выручка без НДС])*8*rand())/(Count(total[Выручка без НДС])*8*rand()), '0,00%'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum((Count(distinct(Товар))*5)/(Count(total distinct(Товар))*5), '0,00%'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum((Sum([Выручка без НДС])*3)/(Sum(total[Выручка без НДС])*3), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum((Sum([Выручка без НДС])*5)/(Sum(total[Выручка без НДС])*5), '0,00%'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "FtAz",
+                "numFormatFromTemplate": true,
+                "textAlign": {
+                  "auto": true,
+                  "align": "left"
+                }
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                },
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            -1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 50,
+              "qHeight": 50
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "P",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": 1,
+          "qMaxStackedCells": 5000,
+          "qShowTotalsAbove": true,
+          "qCalcCond": {},
+          "qSortbyYValue": 1,
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "columnWidths": [
+            [
+              276
+            ],
+            [
+              296
+            ]
+          ],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "='Худшие $(vTop)'"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "components": [],
+        "visualization": "pivot-table"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "GRGJeh",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "title": "Топ",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "variableName": "vTop",
+        "render": "b",
+        "style": "qlik",
+        "width": "fill",
+        "customwidth": "",
+        "vert": false,
+        "updateondrag": false,
+        "thinHeader": false,
+        "valueType": "x",
+        "dynamicvalues": "",
+        "alternatives": [
+          {
+            "value": "5",
+            "label": "5",
+            "cId": "pabpMX"
+          },
+          {
+            "value": "10",
+            "label": "10",
+            "cId": "smvEfGw"
+          },
+          {
+            "value": "25",
+            "label": "25",
+            "cId": "AVFMn"
+          },
+          {
+            "value": "50",
+            "label": "50",
+            "cId": "JegPHhx"
+          },
+          {
+            "value": "100",
+            "label": "100",
+            "cId": "jEfxY"
+          },
+          {
+            "value": "99999",
+            "label": "Все",
+            "cId": "KypGmxF"
+          }
+        ],
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "rangelabel": false,
+        "visualization": "variable",
+        "variableValue": {
+          "qStringExpression": {
+            "qExpr": "=\"vTop\""
+          }
+        },
+        "version": "5.2.3",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Variable",
+          "description": "Variable extension",
+          "template": "variable",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "5.2.3",
+          "type": "visualization",
+          "author": "Erik Wetterberg upper88.com",
+          "contributors": [
+            "Brett Farley contextbi.com"
+          ]
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "SNEGtbu",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "title": "Разрезы",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "variableName": "vIzmTop",
+        "render": "s",
+        "style": "qlik",
+        "width": "",
+        "customwidth": "",
+        "vert": false,
+        "updateondrag": false,
+        "thinHeader": false,
+        "valueType": "x",
+        "dynamicvalues": "",
+        "alternatives": [
+          {
+            "value": "1",
+            "label": "Товар",
+            "cId": "cTDBJUg"
+          },
+          {
+            "value": "2",
+            "label": "Бренд товара",
+            "cId": "qwJWAC"
+          },
+          {
+            "value": "3",
+            "label": "Товарная иерархия",
+            "cId": "aCbXQW"
+          },
+          {
+            "value": "4",
+            "label": "Производитель",
+            "cId": "TDMPx"
+          },
+          {
+            "value": "5",
+            "label": "Поставщик",
+            "cId": "dpeSt"
+          },
+          {
+            "value": "6",
+            "label": "Менеджер, ответственный за закупки",
+            "cId": "UWvRDZm"
+          },
+          {
+            "value": "7",
+            "label": "Склад",
+            "cId": "JzgtPZq"
+          },
+          {
+            "value": "8",
+            "label": "Регион",
+            "cId": "FDB"
+          },
+          {
+            "value": "9",
+            "label": "Категорийный менеджер",
+            "cId": "jPFJU"
+          },
+          {
+            "value": "10",
+            "label": "Группа товаров заменителей",
+            "cId": "LFXcaQ"
+          },
+          {
+            "value": "11",
+            "label": "Валюта поступления",
+            "cId": "KvRj"
+          },
+          {
+            "value": "12",
+            "label": "Товарная группа",
+            "cId": "MUruvVG"
+          },
+          {
+            "value": "13",
+            "label": "Группа складов",
+            "cId": "cGpDkq"
+          },
+          {
+            "value": "14",
+            "label": "Покупатель",
+            "cId": "ePGAya"
+          },
+          {
+            "value": "15",
+            "label": "Виды деятельности",
+            "cId": "uagPM"
+          },
+          {
+            "value": "16",
+            "label": "Категория ABC",
+            "cId": "AXmBYx"
+          }
+        ],
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "rangelabel": false,
+        "visualization": "variable",
+        "variableValue": {
+          "qStringExpression": {
+            "qExpr": "=\"vIzmTop\""
+          }
+        },
+        "version": "5.2.3",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Variable",
+          "description": "Variable extension",
+          "template": "variable",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "5.2.3",
+          "type": "visualization",
+          "author": "Erik Wetterberg upper88.com",
+          "contributors": [
+            "Brett Farley contextbi.com"
+          ]
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "GcJcJW",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "showTitles": true,
+        "title": "Выражения",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "variableName": "vIzmTop2",
+        "render": "s",
+        "style": "qlik",
+        "width": "",
+        "customwidth": "",
+        "vert": false,
+        "updateondrag": false,
+        "thinHeader": false,
+        "valueType": "x",
+        "dynamicvalues": "",
+        "alternatives": [
+          {
+            "value": "1",
+            "label": "Продажи в денежном выражении с НДС",
+            "cId": "QpJNmx"
+          },
+          {
+            "value": "2",
+            "label": "Продажи в денежном выражении без НДС",
+            "cId": "Cawwn"
+          },
+          {
+            "value": "3",
+            "label": "Товарооборот (отгрузки) по себестоимости, сумма",
+            "cId": "zMJhMw"
+          },
+          {
+            "value": "4",
+            "label": "Товарооборот (отгрузки) в количестве",
+            "cId": "XVupXPU"
+          },
+          {
+            "value": "5",
+            "label": "Удельный вес в общих ТЗ, %",
+            "cId": "QPcXk"
+          },
+          {
+            "value": "6",
+            "label": "Средняя продажа в денежном выражении, без НДС",
+            "cId": "jsypw"
+          },
+          {
+            "value": "7",
+            "label": "Средний объем продаж в количестве",
+            "cId": "TRnMDKx"
+          },
+          {
+            "value": "8",
+            "label": "Индекс доходности, %",
+            "cId": "Amgumc"
+          },
+          {
+            "value": "9",
+            "label": "Количество активных SKU",
+            "cId": "EfTba"
+          },
+          {
+            "value": "10",
+            "label": "Валовый доход, сумма",
+            "cId": "bTMGt"
+          },
+          {
+            "value": "11",
+            "label": "Рентабельность продаж, %",
+            "cId": "PnzLQy"
+          },
+          {
+            "value": "12",
+            "label": "GMROI",
+            "cId": "JZmbj"
+          },
+          {
+            "value": "13",
+            "label": "Остаток товара на начало периода, количество",
+            "cId": "WWBSn"
+          },
+          {
+            "value": "14",
+            "label": "Остаток товара на конец периода, количество",
+            "cId": "jnSgF"
+          },
+          {
+            "value": "15",
+            "label": "Средний товарный запас за весь период, количество",
+            "cId": "RMgXaj"
+          },
+          {
+            "value": "16",
+            "label": "Остаток  на начало периода, стоимость, упр",
+            "cId": "MmfYg"
+          },
+          {
+            "value": "17",
+            "label": "Остаток  на конец периода, стоимость",
+            "cId": "CUCjAbd"
+          },
+          {
+            "value": "18",
+            "label": "Средний товарный запас за весь период, стоимость",
+            "cId": "VzxaNhx"
+          },
+          {
+            "value": "19",
+            "label": "Количество SKU на остатке",
+            "cId": "sYHCJy"
+          },
+          {
+            "value": "20",
+            "label": "Оборачиваемость, дн ( по стоимости)",
+            "cId": "WfatF"
+          },
+          {
+            "value": "21",
+            "label": "Оборачиваемость, дн ( по количеству)",
+            "cId": "KYdxaGq"
+          },
+          {
+            "value": "22",
+            "label": "Коэффициент оборачиваемости ( по количеству)",
+            "cId": "JdvCHv"
+          },
+          {
+            "value": "23",
+            "label": "Коэффициент оборачиваемости ( по стоимости)",
+            "cId": "aQHgFZ"
+          },
+          {
+            "value": "24",
+            "label": "Упущенные продажи в деньгах",
+            "cId": "XPRhUV"
+          },
+          {
+            "value": "25",
+            "label": "Упущенные продажи в штуках",
+            "cId": "QxpNTqK"
+          },
+          {
+            "value": "26",
+            "label": "Упущенный ВД",
+            "cId": "bnbmxvV"
+          },
+          {
+            "value": "27",
+            "label": "Сумма неликвидов по себестоимости",
+            "cId": "Nuppuqf"
+          },
+          {
+            "value": "28",
+            "label": "Неликвиды в количестве",
+            "cId": "htNf"
+          },
+          {
+            "value": "29",
+            "label": "ROI",
+            "cId": "HhPxapD"
+          },
+          {
+            "value": "30",
+            "label": "Расход со склада по себестоимости",
+            "cId": "SUfbJjN"
+          },
+          {
+            "value": "31",
+            "label": "Расход со склада, количество",
+            "cId": "mCcwbpS"
+          },
+          {
+            "value": "32",
+            "label": "Сумма закупки",
+            "cId": "mhfnR"
+          },
+          {
+            "value": "33",
+            "label": "Дни закупки",
+            "cId": "fLxMP"
+          }
+        ],
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "rangelabel": false,
+        "visualization": "variable",
+        "variableValue": {
+          "qStringExpression": {
+            "qExpr": "=\"vIzmTop2\""
+          }
+        },
+        "version": "5.2.3",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Variable",
+          "description": "Variable extension",
+          "template": "variable",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "5.2.3",
+          "type": "visualization",
+          "author": "Erik Wetterberg upper88.com",
+          "contributors": [
+            "Brett Farley contextbi.com"
+          ]
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "LpnpHq",
+          "qType": "pivot-table"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад] ,\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС],\n)\n\n\n\n"
+                ],
+                "qFieldLabels": [
+                  "Измерение"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByLoadOrder": 1,
+                    "qSortByExpression": -1,
+                    "qExpression": {
+                      "qv": "=pick(vRatingY,\r\nNum(Sum([$(vNDS)]), '# ##0,00'),\t// 1. Выручка с НДС\nNum(Sum([$(vbezNDS)]), '# ##0,00'),\t// 2. Выручка без НДС\nNum(Sum([$(vbezNDS)])/Sum(total [$(vbezNDS)]), '0,00%'),\t// 3. % Выручки\nNum(Sum([$(vKolProdazh)]), '# ##0'),\t// 4. Объем продаж в кол-ве\nNum(Sum([$(vKolProdazh)])/Sum(total [$(vKolProdazh)]), '0,00%'),\t// 5. % Объема продаж в кол-ве\nNum(Sum([$(vSebestoimost)]), '# ##0,00'),\t// 6. Себестоимость\nNum(Sum([$(vValovoiDoxod)]), '# ##0,00'),\t// 7. Валовый доход\nNum(Sum([$(vValovoiDoxod)])/Sum([$(vbezNDS)])*100, '0,00%'),\t// 8. % Валового дохода\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nNum(Sum([$(vSummaSkidki)] ), '# ##0,00'),\t// 9. Сумма скидки\nNum(Sum([$(vSummaSkidki)] )/Sum([$(vbezNDS)])*100, '0,00%'),\t// 10. % Скидки\nNum(Sum([$(vKolProdazh)])/count(distinct[Дата]), '# ##0'),\t// 11. Средний объем продаж в кол-ве\nNum(Sum([$(vZakazySum)]), '# ##0,00'),\t// 12. Заказы (сумма)\nNum(Sum([$(vZakazyCount)]), '# ##0'),\t// 13. Заказы (кол-во)\nNum(Sum({<[Тип продажи]={'Возврат'}>} [$(vbezNDS)]), '# ##0,00'),\t// 14. Возвраты\nNum(Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} distinct [Адрес доставки]), '# ##0'),\t// 15. ААД\nNum(Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} distinct [Адрес доставки])/Count({<[Адрес доставки]={\"=Sum([$(vbezNDS)])>0\"}>} total distinct [Адрес доставки]), '0,00%') // 16. % ААД\n)\n"
+                    }
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": false,
+                "cId": "RaUV",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_COUNTED",
+                "qOtherCounted": {
+                  "qv": "$(vTop)"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qSuppressOther": true,
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {
+                "qv": "Итоги"
+              },
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Показатель",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum(Sum([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum(Sum([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum(Sum([Выручка без НДС])/2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\nNum(Count([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\nNum(rand()*15/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\nNum(Avg([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\nNum(Count([Выручка без НДС]), '# ##0'), \t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\nNum(2*rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum(Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50), '# ##0'),\t//Ex-10 Валовый доход (маржа), сумма\nNum(Sum([Выручка без НДС]*50)/Sum(total[Выручка без НДС])/100, '0,00%'),//Ex-11 Рентабельность продаж (маржа), %\nNum(rand()*10/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \nNum(Count([Выручка без НДС])*8, '# ##0'),\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\nNum(Count([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\nNum(Count([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum(Sum([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum(Sum([Выручка без НДС])/Count(distinct(Товар)), '# ##0'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\nNum(Sum([Выручка без НДС])*4, '# ##0'),\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\nNum(Sum([Выручка без НДС])/30, '# ##0'),\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\nNum(Sum([Выручка без НДС])/20, '# ##0'),\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\nNum(Count([Выручка без НДС])*12*rand(), '# ##0'),\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum(Sum([Выручка без НДС])/8, '# ##0'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\nNum(Count([Выручка без НДС])*10*rand(), '# ##0'),\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum(Count([Выручка без НДС])*8*rand(), '# ##0'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum(Count(distinct(Товар))*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\nNum(Count(distinct(Товар))*12, '# ##0'),\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\nNum(Sum([Выручка без НДС])/Sum([Выручка без НДС])*20, '# ##0'),\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum(Sum([Выручка без НДС])*3, '# ##0'),\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\nNum(Sum([Выручка без НДС])*9, '# ##0'),\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \nNum(rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ",",
+                  "qThou": " "
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "uwfmxr",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                },
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qLabel": "Удельный вес",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum((Sum([Выручка без НДС])*2)/(Sum(total[Выручка без НДС])*2), '0,00%'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum((Sum([Выручка без НДС]))/(Sum(total[Выручка без НДС])), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum((Sum([Выручка без НДС])/2)/(Sum(total[Выручка без НДС])/2), '0,00%'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\n'-', \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum((Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50))/(Sum(total[Выручка без НДС])-Sum(total[Выручка без НДС]/2.50)), '0,00%'),\t//Ex-10 Валовый доход (маржа), сумма\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-11 Рентабельность продаж (маржа), %\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum((Sum([Выручка без НДС])*5)/(Sum(total[Выручка без НДС])*5), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum((Sum([Выручка без НДС])*10)/(Sum(total[Выручка без НДС])*10), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum((Sum([Выручка без НДС])/Count(distinct(Товар)))/(Sum(total[Выручка без НДС])/Count(distinct(Товар))), '0,00%'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum((Sum([Выручка без НДС])/8)/(Sum(total[Выручка без НДС])/8), '0,00%'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum((Count([Выручка без НДС])*8*rand())/(Count(total[Выручка без НДС])*8*rand()), '0,00%'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum((Count(distinct(Товар))*5)/(Count(total distinct(Товар))*5), '0,00%'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum((Sum([Выручка без НДС])*3)/(Sum(total[Выручка без НДС])*3), '0,00%'),\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum((Sum([Выручка без НДС])*5)/(Sum(total[Выручка без НДС])*5), '0,00%'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \n'-',\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "sJmULB",
+                "numFormatFromTemplate": true,
+                "textAlign": {
+                  "auto": true,
+                  "align": "left"
+                }
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                },
+                {
+                  "qAttribute": true,
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  }
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            -1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 50,
+              "qHeight": 50
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "P",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": 1,
+          "qMaxStackedCells": 5000,
+          "qShowTotalsAbove": true,
+          "qCalcCond": {},
+          "qSortbyYValue": -1,
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "columnWidths": [
+            [
+              276
+            ],
+            [
+              272
+            ]
+          ],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "='Лучшие $(vTop)'"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "components": [],
+        "visualization": "pivot-table"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ACCWYBn",
+          "qType": "barchart"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад],\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС]\n)"
+                ],
+                "qFieldLabels": [
+                  "Измерение"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "SWaxQkB",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_COUNTED",
+                "qOtherCounted": {
+                  "qv": "$(vTop)"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qSuppressOther": true,
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Показатель",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum(Sum([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum(Sum([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum(Sum([Выручка без НДС])/2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\nNum(Count([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\nNum(rand()*15/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\nNum(Avg([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\nNum(Count([Выручка без НДС]), '# ##0'), \t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\nNum(2*rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum(Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50), '# ##0'),\t//Ex-10 Валовый доход (маржа), сумма\nNum(Sum([Выручка без НДС]*50)/Sum(total[Выручка без НДС])/100, '0,00%'),//Ex-11 Рентабельность продаж (маржа), %\nNum(rand()*10/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \nNum(Count([Выручка без НДС])*8, '# ##0'),\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\nNum(Count([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\nNum(Count([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum(Sum([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum(Sum([Выручка без НДС])/Count(distinct(Товар)), '# ##0'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\nNum(Sum([Выручка без НДС])*4, '# ##0'),\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\nNum(Sum([Выручка без НДС])/30, '# ##0'),\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\nNum(Sum([Выручка без НДС])/20, '# ##0'),\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\nNum(Count([Выручка без НДС])*12*rand(), '# ##0'),\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum(Sum([Выручка без НДС])/8, '# ##0'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\nNum(Count([Выручка без НДС])*10*rand(), '# ##0'),\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum(Count([Выручка без НДС])*8*rand(), '# ##0'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum(Count(distinct(Товар))*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\nNum(Count(distinct(Товар))*12, '# ##0'),\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\nNum(Sum([Выручка без НДС])/Sum([Выручка без НДС])*20, '# ##0'),\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum(Sum([Выручка без НДС])*3, '# ##0'),\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\nNum(Sum([Выручка без НДС])*9, '# ##0'),\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \nNum(rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ",",
+                  "qThou": " "
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "XHtPy",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            1,
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 17,
+              "qHeight": 500
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qAlwaysFullyExpanded": true,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "refLine": {
+          "refLines": []
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "='ТОП $(vTopN) лучших'"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "components": [],
+        "barGrouping": {
+          "grouping": "grouped"
+        },
+        "orientation": "horizontal",
+        "scrollbar": "miniChart",
+        "scrollStartPos": 0,
+        "gridLine": {
+          "auto": true,
+          "spacing": 2
+        },
+        "dataPoint": {
+          "showLabels": true,
+          "showSegmentLabels": false,
+          "showTotalLabels": true
+        },
+        "color": {
+          "auto": false,
+          "mode": "primary",
+          "useBaseColors": "off",
+          "paletteColor": {
+            "index": 2,
+            "color": "#46c646"
+          },
+          "useDimColVal": true,
+          "useMeasureGradient": true,
+          "persistent": false,
+          "expressionIsColor": true,
+          "expressionLabel": "",
+          "measureScheme": "sg",
+          "reverseScheme": false,
+          "dimensionScheme": "12",
+          "autoMinMax": true,
+          "measureMin": 0,
+          "measureMax": 10
+        },
+        "legend": {
+          "show": true,
+          "dock": "auto",
+          "showTitle": true
+        },
+        "dimensionAxis": {
+          "continuousAuto": true,
+          "show": "all",
+          "label": "auto",
+          "dock": "near",
+          "axisDisplayMode": "auto",
+          "maxVisibleItems": 10
+        },
+        "preferContinuousAxis": true,
+        "measureAxis": {
+          "show": "all",
+          "dock": "far",
+          "spacing": 1,
+          "autoMinMax": true,
+          "minMax": "min",
+          "min": 0,
+          "max": 10
+        },
+        "tooltip": {
+          "auto": true,
+          "data": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "visualization": "barchart",
+        "showMiniChartForContinuousAxis": true
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "HJBSW",
+          "qType": "barchart"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад],\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС]\n)"
+                ],
+                "qFieldLabels": [
+                  "Измерение"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "nnBtPXk",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_COUNTED",
+                "qOtherCounted": {
+                  "qv": "$(vTop)"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qSuppressOther": true,
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_ASCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Показатель",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=pick(vIzmTop2,\r\nNum(Sum([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-01 Продажи в денежном выражении с НДС\nNum(Sum([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-02 Продажи в денежном выражении без НДС \nNum(Sum([Выручка без НДС])/2, '# ##0'),\t\t\t\t\t\t\t\t//Ex-03 Товарооборот (отгрузки) по себестоимости\nNum(Count([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-04 Товарооборот (отгрузки) в количестве\nNum(rand()*15/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-05 Удельный вес в общих ТЗ, %\nNum(Avg([Выручка без НДС]), '# ##0'),\t\t\t\t\t\t\t\t//Ex-06 Средняя продажа в денежном выражении, без НДС\nNum(Count([Выручка без НДС]), '# ##0'), \t\t\t\t\t\t\t//Ex-07 Средний объем продаж в количестве\nNum(2*rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-08 Индекс доходности\nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-09 Количество активных SKU\nNum(Sum([Выручка без НДС])-Sum([Выручка без НДС]/2.50), '# ##0'),\t//Ex-10 Валовый доход (маржа), сумма\nNum(Sum([Выручка без НДС]*50)/Sum(total[Выручка без НДС])/100, '0,00%'),//Ex-11 Рентабельность продаж (маржа), %\nNum(rand()*10/100, '0,00%'),\t\t\t\t\t\t\t\t\t\t//Ех-12 GMROI, % \nNum(Count([Выручка без НДС])*8, '# ##0'),\t\t\t\t\t\t\t//Ex-19 Остаток товара на начало периода, количество\nNum(Count([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-20 Остаток товара на конец периода, количество\nNum(Count([Выручка без НДС])*2, '# ##0'),\t\t\t\t\t\t\t//Ех-27 Средний товарный запас за весь период, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-28 Остаток  на начало периода, стоимость, упр\nNum(Sum([Выручка без НДС])*10, '# ##0'),\t\t\t\t\t\t\t//Ex-29 Остаток на конец периода, стоимость, упр\nNum(Sum([Выручка без НДС])/Count(distinct(Товар)), '# ##0'),\t\t//Ex-32 Средний товарный запас за весь период, стоимость, упр \nNum($(vSKU), '# ##0'),\t\t\t\t\t\t\t\t\t\t\t\t//Ex-37 Количество SKU на остатке\nNum(Sum([Выручка без НДС])*4, '# ##0'),\t\t\t\t\t\t\t\t//Ex-38 Оборачиваемость, дн ( по стоимости)\nNum(Sum([Выручка без НДС])/30, '# ##0'),\t\t\t\t\t\t\t//Ex-39 Оборачиваемость, дн ( по количеству)\nNum(Sum([Выручка без НДС])/20, '# ##0'),\t\t\t\t\t\t\t//Ex-41 Коэффициент оборачиваемости ( по количеству)\nNum(Count([Выручка без НДС])*12*rand(), '# ##0'),\t\t\t\t\t//Ех-40 Коэффициент оборачиваемости ( по стоимости)\nNum(Sum([Выручка без НДС])/8, '# ##0'),\t\t\t\t\t\t\t\t//Ex-42 Упущенные продажи в деньгах\nNum(Count([Выручка без НДС])*10*rand(), '# ##0'),\t\t\t\t\t//Ex-43 Упущенные продажи в штуках\nNum(Count([Выручка без НДС])*8*rand(), '# ##0'),\t\t\t\t\t//Ex-44 Упущенный ВД\nNum(Count(distinct(Товар))*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-50 Неликвиды, в себестоимости, упр\nNum(Count(distinct(Товар))*12, '# ##0'),\t\t\t\t\t\t\t\t//Ex-51 Неликвиды в количестве\nNum(Sum([Выручка без НДС])/Sum([Выручка без НДС])*20, '# ##0'),\t\t//Ех-30 ROI ( c учетом отсрочки)\nNum(Sum([Выручка без НДС])*3, '# ##0'),\t\t\t\t\t\t\t\t//Ex-63 Расход со склада по себестоимости, упр\nNum(Sum([Выручка без НДС])*9, '# ##0'),\t\t\t\t\t\t\t\t//Ex-64 Расход со склада, количество\nNum(Sum([Выручка без НДС])*5, '# ##0'),\t\t\t\t\t\t\t\t//Ex-61 Сумма закупки, упр \nNum(rand()*12, '# ##0'),\t\t\t\t\t\t\t\t\t\t\t//Ex-66 Дни закупки\n)\n\n\n\n",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ",",
+                  "qThou": " "
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": false,
+                "cId": "mhEWaW",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            1,
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 17,
+              "qHeight": 500
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qAlwaysFullyExpanded": true,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "refLine": {
+          "refLines": []
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "='ТОП $(vTopN) худших'"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "components": [],
+        "barGrouping": {
+          "grouping": "grouped"
+        },
+        "orientation": "horizontal",
+        "scrollbar": "miniChart",
+        "scrollStartPos": 0,
+        "gridLine": {
+          "auto": true,
+          "spacing": 2
+        },
+        "dataPoint": {
+          "showLabels": true,
+          "showSegmentLabels": false,
+          "showTotalLabels": true
+        },
+        "color": {
+          "auto": false,
+          "mode": "primary",
+          "useBaseColors": "off",
+          "paletteColor": {
+            "index": 10,
+            "color": "#f93f17"
+          },
+          "useDimColVal": true,
+          "useMeasureGradient": true,
+          "persistent": false,
+          "expressionIsColor": true,
+          "expressionLabel": "",
+          "measureScheme": "sg",
+          "reverseScheme": false,
+          "dimensionScheme": "12",
+          "autoMinMax": true,
+          "measureMin": 0,
+          "measureMax": 10
+        },
+        "legend": {
+          "show": true,
+          "dock": "auto",
+          "showTitle": true
+        },
+        "dimensionAxis": {
+          "continuousAuto": true,
+          "show": "all",
+          "label": "auto",
+          "dock": "near",
+          "axisDisplayMode": "auto",
+          "maxVisibleItems": 10
+        },
+        "preferContinuousAxis": true,
+        "measureAxis": {
+          "show": "all",
+          "dock": "far",
+          "spacing": 1,
+          "autoMinMax": true,
+          "minMax": "min",
+          "min": 0,
+          "max": 10
+        },
+        "tooltip": {
+          "auto": true,
+          "data": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "visualization": "barchart",
+        "showMiniChartForContinuousAxis": true
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "eRvqk",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "pPvDdG",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Год"
+                ],
+                "qFieldLabels": [
+                  "Год"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "tpAP"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Год",
+            "subtitle": "",
+            "footnote": "",
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "QNGwPcJ",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "LwhjPQ",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Квартал"
+                ],
+                "qFieldLabels": [
+                  "Квартал"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "ppGWNQ"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Квартал",
+            "subtitle": "",
+            "footnote": "",
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "cuzPJG",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "JCLy",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Месяц"
+                ],
+                "qFieldLabels": [
+                  "Месяц"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "PNgmZV"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Месяц",
+            "subtitle": "",
+            "footnote": "",
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    }
+  ]
+}

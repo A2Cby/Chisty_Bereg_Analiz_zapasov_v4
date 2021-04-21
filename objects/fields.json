@@ -1,0 +1,802 @@
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 67,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 17,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 6,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 9,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 13,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "_dimensionNO",
+    "qCardinal": 46,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Измерения"
+    ]
+  },
+  {
+    "qName": "_metricsNO",
+    "qCardinal": 72,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения"
+    ]
+  },
+  {
+    "qName": "_metricsNO2",
+    "qCardinal": 13,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения2"
+    ]
+  },
+  {
+    "qName": "_metricsNO3",
+    "qCardinal": 12,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения3"
+    ]
+  },
+  {
+    "qName": "_metricsNO4",
+    "qCardinal": 31,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения4"
+    ]
+  },
+  {
+    "qName": "_metricsNO5",
+    "qCardinal": 13,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения5"
+    ]
+  },
+  {
+    "qName": "_metricsNO6",
+    "qCardinal": 20,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Выражения6"
+    ]
+  },
+  {
+    "qName": "Артикул собственный",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Бренд товара",
+    "qCardinal": 8,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Валюта",
+    "qCardinal": 4,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Валюта поступления",
+    "qCardinal": 4,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Виды деятельности",
+    "qCardinal": 1,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Выражения",
+    "qCardinal": 72,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения"
+    ]
+  },
+  {
+    "qName": "Выражения(Dashboard)",
+    "qCardinal": 13,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения5"
+    ]
+  },
+  {
+    "qName": "Выражения(Дефицитность)",
+    "qCardinal": 19,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения6"
+    ]
+  },
+  {
+    "qName": "Выражения(Динамика)",
+    "qCardinal": 31,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения4"
+    ]
+  },
+  {
+    "qName": "Выражения(Обеспеченность)",
+    "qCardinal": 13,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения2"
+    ]
+  },
+  {
+    "qName": "Выражения(Остатки)",
+    "qCardinal": 12,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Выражения3"
+    ]
+  },
+  {
+    "qName": "Выручка без НДС",
+    "qCardinal": 12,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Год",
+    "qCardinal": 1,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ГодКвартал",
+    "qCardinal": 2,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ГодМесяц",
+    "qCardinal": 5,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ГодНеделя",
+    "qCardinal": 20,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ГодП",
+    "qCardinal": 1,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "КалендарьPrev"
+    ]
+  },
+  {
+    "qName": "Группа подсветки товара",
+    "qCardinal": 7,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Группа складов",
+    "qCardinal": 2,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Склады"
+    ]
+  },
+  {
+    "qName": "Группа товаров заменителей",
+    "qCardinal": 7,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Дата",
+    "qCardinal": 135,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Calendar",
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "ДатаП",
+    "qCardinal": 135,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "КалендарьPrev"
+    ]
+  },
+  {
+    "qName": "День",
+    "qCardinal": 31,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ДеньНедели",
+    "qCardinal": 7,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Единица хранения остатков",
+    "qCardinal": 1,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Заказ покупателя",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Категорийный менеджер",
+    "qCardinal": 10,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Категория АВС",
+    "qCardinal": 3,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Квартал",
+    "qCardinal": 2,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "КварталП",
+    "qCardinal": 2,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "КалендарьPrev"
+    ]
+  },
+  {
+    "qName": "Код покупателя",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Код поставщика",
+    "qCardinal": 5,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары",
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Код производителя",
+    "qCardinal": 8,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Код товара",
+    "qCardinal": 10,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары",
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "КодСклада",
+    "qCardinal": 5,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары",
+      "Склады"
+    ]
+  },
+  {
+    "qName": "Менеджер, ответственный за закупки",
+    "qCardinal": 5,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Месяц",
+    "qCardinal": 5,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "МесяцП",
+    "qCardinal": 5,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "КалендарьPrev"
+    ]
+  },
+  {
+    "qName": "НДС",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Неделя",
+    "qCardinal": 20,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "НеделяП",
+    "qCardinal": 20,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "КалендарьPrev"
+    ]
+  },
+  {
+    "qName": "Номер накладной",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Партии",
+    "qCardinal": 7,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Подразделение",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Покупатель",
+    "qCardinal": 10,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Полугодие",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Поля",
+    "qCardinal": 46,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Измерения"
+    ]
+  },
+  {
+    "qName": "Поставщик",
+    "qCardinal": 5,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Поставщик"
+    ]
+  },
+  {
+    "qName": "Производитель",
+    "qCardinal": 8,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Регион",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Склады"
+    ]
+  },
+  {
+    "qName": "Склад",
+    "qCardinal": 4,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Склады"
+    ]
+  },
+  {
+    "qName": "Статус заказа покупателя",
+    "qCardinal": 8,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Статус склада",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Склады"
+    ]
+  },
+  {
+    "qName": "Статус товара",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Тип документа",
+    "qCardinal": 10,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Тип продаж",
+    "qCardinal": 3,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Транзакции"
+    ]
+  },
+  {
+    "qName": "Товар",
+    "qCardinal": 10,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Товарная группа",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Товарная иерархия",
+    "qCardinal": 6,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  },
+  {
+    "qName": "Только для розницы",
+    "qCardinal": 2,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Товары"
+    ]
+  }
+]

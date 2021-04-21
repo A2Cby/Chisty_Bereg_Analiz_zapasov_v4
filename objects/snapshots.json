@@ -1,0 +1,1409 @@
+[
+  {
+    "qInfo": {
+      "qId": "00b291d9-0068-44c9-8022-3b96a0caac11",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-07-07T12:10:27.507Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "responsive": "all",
+    "markdown": "^[#[&lt;дней]({\"index\":2,\"color\":\"#46c646\"})](left)",
+    "images": [],
+    "background": {
+      "isUsed": false,
+      "size": "auto",
+      "position": "topLeft",
+      "url": {}
+    },
+    "visualization": "text-image",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 149,
+          "h": 38
+        }
+      },
+      "rtl": false,
+      "scrollTopPercent": 0,
+      "verticalScrollWidth": 0.1560000000000059,
+      "parent": {
+        "h": 907,
+        "w": 1920
+      }
+    },
+    "visualizationType": "text-image",
+    "sourceObjectId": "jsGJL",
+    "sheetId": "ad9d747c-792e-4353-a856-0770c56d4e06",
+    "timestamp": 1594123827493,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "1f06dc5f-8a79-437a-8dfb-7895b38b0a81",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "ТОП  лучших",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-07-28T12:08:39.005Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 2,
+        "qcy": 5
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Измерение",
+          "qApprMaxGlyphCount": 70,
+          "qCardinal": 10,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Измерение"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 6,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 4,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "R",
+            "qnDec": 14,
+            "qUseThou": 1,
+            "qFmt": "##############",
+            "qDec": ","
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад],\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС]\n)"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qIsCalculated": true,
+          "qCardinalities": {
+            "qCardinal": 10,
+            "qHypercubeCardinal": 5,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "SWaxQkB",
+          "othersLabel": "Другие"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Показатель",
+          "qApprMaxGlyphCount": 6,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qMin": 2090,
+          "qMax": 3712,
+          "qIsAutoFormat": true,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "XHtPy",
+          "numFormatFromTemplate": false,
+          "isCustomFormatted": true
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        1,
+        0
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "16 760",
+          "qNum": 16760,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Печь банная чугунная CИБИРЬ - 18",
+                "qNum": "NaN",
+                "qElemNumber": 1,
+                "qState": "O"
+              },
+              {
+                "qText": "3 712",
+                "qNum": 3712,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Buderus Logamax U052-28К",
+                "qNum": "NaN",
+                "qElemNumber": 9,
+                "qState": "O"
+              },
+              {
+                "qText": "3 644",
+                "qNum": 3644,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Воздушно-тепловая завеса DEFENDER 150 EHN с электрическим нагревателем",
+                "qNum": "NaN",
+                "qElemNumber": 7,
+                "qState": "O"
+              },
+              {
+                "qText": "2 874",
+                "qNum": 2874,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Воздушно-тепловая завеса DEFENDER 200 WHN с водяным нагревателем",
+                "qNum": "NaN",
+                "qElemNumber": 4,
+                "qState": "O"
+              },
+              {
+                "qText": "2 830",
+                "qNum": 2830,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Бак мембранный Airfix A 18",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "O"
+              },
+              {
+                "qText": "2 090",
+                "qNum": 2090,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 2,
+            "qHeight": 5
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "title": "ТОП  лучших",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "components": [],
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "orientation": "horizontal",
+    "scrollbar": "miniChart",
+    "scrollStartPos": 0,
+    "gridLine": {
+      "auto": true,
+      "spacing": 2
+    },
+    "dataPoint": {
+      "showLabels": true,
+      "showSegmentLabels": false,
+      "showTotalLabels": true
+    },
+    "color": {
+      "auto": false,
+      "mode": "primary",
+      "useBaseColors": "off",
+      "paletteColor": {
+        "index": 2,
+        "color": "#46c646"
+      },
+      "useDimColVal": true,
+      "useMeasureGradient": true,
+      "persistent": false,
+      "expressionIsColor": true,
+      "expressionLabel": "",
+      "measureScheme": "sg",
+      "reverseScheme": false,
+      "dimensionScheme": "12",
+      "autoMinMax": true,
+      "measureMin": 0,
+      "measureMax": 10
+    },
+    "legend": {
+      "show": true,
+      "dock": "auto",
+      "showTitle": true
+    },
+    "dimensionAxis": {
+      "continuousAuto": true,
+      "show": "all",
+      "label": "auto",
+      "dock": "near",
+      "axisDisplayMode": "auto",
+      "maxVisibleItems": 10
+    },
+    "preferContinuousAxis": true,
+    "measureAxis": {
+      "show": "all",
+      "dock": "far",
+      "spacing": 1,
+      "autoMinMax": true,
+      "minMax": "min",
+      "min": 0,
+      "max": 10
+    },
+    "tooltip": {
+      "auto": true,
+      "data": {
+        "qHyperCube": {
+          "qSize": {
+            "qcx": 0,
+            "qcy": 0
+          },
+          "qDimensionInfo": [],
+          "qMeasureInfo": [],
+          "qEffectiveInterColumnSortOrder": [],
+          "qGrandTotalRow": [],
+          "qDataPages": [],
+          "qPivotDataPages": [],
+          "qStackedDataPages": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qTreeNodesOnDim": [],
+          "qColumnOrder": []
+        }
+      }
+    },
+    "visualization": "barchart",
+    "showMiniChartForContinuousAxis": true,
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 329,
+          "h": 586
+        }
+      },
+      "rtl": false,
+      "content": {
+        "size": {
+          "w": 329.109375,
+          "h": 556
+        },
+        "chartData": {
+          "scrollOffset": 0,
+          "zoom": {
+            "min": 0,
+            "max": 0
+          }
+        }
+      },
+      "parent": {
+        "h": 770,
+        "w": 1536
+      }
+    },
+    "reducedHyperCube": {
+      "qSize": {
+        "qcx": 2,
+        "qcy": 5
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Измерение",
+          "qApprMaxGlyphCount": 70,
+          "qCardinal": 10,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Измерение"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 6,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 4,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "R",
+            "qnDec": 14,
+            "qUseThou": 1,
+            "qFmt": "##############",
+            "qDec": ","
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "=pick(vIzmTop,\r\n[Товар],\n[Бренд товара],\n[Товарная иерархия],\n[Производитель],\n[Поставщик],\n[Менеджер, ответственный за закупки],\n[Склад],\n[Регион],\n[Категорийный менеджер],\n[Группа товаров заменителей],\n[Валюта поступления],\n[Товарная группа],\n[Группа складов],\n[Покупатель],\n[Виды деятельности],\n[Категория АВС]\n)"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qIsCalculated": true,
+          "qCardinalities": {
+            "qCardinal": 10,
+            "qHypercubeCardinal": 5,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "SWaxQkB",
+          "othersLabel": "Другие"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Показатель",
+          "qApprMaxGlyphCount": 6,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qMin": 2090,
+          "qMax": 3712,
+          "qIsAutoFormat": true,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "XHtPy",
+          "numFormatFromTemplate": false,
+          "isCustomFormatted": true
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        1,
+        0
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "16 760",
+          "qNum": 16760,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Печь банная чугунная CИБИРЬ - 18",
+                "qNum": "NaN",
+                "qElemNumber": 1,
+                "qState": "O"
+              },
+              {
+                "qText": "3 712",
+                "qNum": 3712,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Buderus Logamax U052-28К",
+                "qNum": "NaN",
+                "qElemNumber": 9,
+                "qState": "O"
+              },
+              {
+                "qText": "3 644",
+                "qNum": 3644,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Воздушно-тепловая завеса DEFENDER 150 EHN с электрическим нагревателем",
+                "qNum": "NaN",
+                "qElemNumber": 7,
+                "qState": "O"
+              },
+              {
+                "qText": "2 874",
+                "qNum": 2874,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Воздушно-тепловая завеса DEFENDER 200 WHN с водяным нагревателем",
+                "qNum": "NaN",
+                "qElemNumber": 4,
+                "qState": "O"
+              },
+              {
+                "qText": "2 830",
+                "qNum": 2830,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Бак мембранный Airfix A 18",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "O"
+              },
+              {
+                "qText": "2 090",
+                "qNum": 2090,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 2,
+            "qHeight": 5
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "visualizationType": "barchart",
+    "sourceObjectId": "ACCWYBn",
+    "sheetId": "737ccf48-544b-4b5a-a04e-92e6c7a9ff16",
+    "timestamp": 1595938118978,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "6ecd911a-5298-4801-8fe1-e652bdb08a79",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-06-30T10:58:23.570Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "responsive": "all",
+    "markdown": "^[#[&lt;дней]({\"index\":2,\"color\":\"#46c646\"})](left)",
+    "images": [],
+    "background": {
+      "isUsed": false,
+      "size": "auto",
+      "position": "topLeft",
+      "url": {}
+    },
+    "visualization": "text-image",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 149,
+          "h": 38
+        }
+      },
+      "rtl": false,
+      "scrollTopPercent": 0,
+      "verticalScrollWidth": 0.1560000000000059,
+      "parent": {
+        "h": 907,
+        "w": 1920
+      }
+    },
+    "visualizationType": "text-image",
+    "sourceObjectId": "jsGJL",
+    "sheetId": "ad9d747c-792e-4353-a856-0770c56d4e06",
+    "timestamp": 1593514703551,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "ba503095-cdc8-47e4-afac-a0d10d273a29",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-06-29T12:25:47.265Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qListObject": {
+      "qSize": {
+        "qcx": 1,
+        "qcy": 90
+      },
+      "qDimensionInfo": {
+        "qFallbackTitle": "Дата",
+        "qApprMaxGlyphCount": 10,
+        "qCardinal": 90,
+        "qSortIndicator": "A",
+        "qGroupFallbackTitles": [
+          "Дата"
+        ],
+        "qGroupPos": 0,
+        "qStateCounts": {
+          "qLocked": 0,
+          "qSelected": 0,
+          "qOption": 5,
+          "qDeselected": 0,
+          "qAlternative": 0,
+          "qExcluded": 85,
+          "qSelectedExcluded": 0,
+          "qLockedExcluded": 0
+        },
+        "qTags": [
+          "$key",
+          "$numeric",
+          "$integer",
+          "$timestamp",
+          "$date"
+        ],
+        "qDimensionType": "N",
+        "qGrouping": "N",
+        "qNumFormat": {
+          "qType": "D",
+          "qnDec": 0,
+          "qUseThou": 0,
+          "qFmt": "DD.MM.YYYY"
+        },
+        "qIsAutoFormat": true,
+        "qGroupFieldDefs": [
+          "Дата"
+        ],
+        "qMin": 0,
+        "qMax": 0,
+        "qAttrExprInfo": [],
+        "qAttrDimInfo": [],
+        "qCardinalities": {
+          "qCardinal": 90,
+          "qHypercubeCardinal": 0,
+          "qAllValuesCardinal": -1
+        }
+      },
+      "qExpressions": [],
+      "qDataPages": [],
+      "qSortCriterias": {
+        "qSortByNumeric": 1,
+        "qSortByState": 1
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "props": {
+      "isSingleDate": false,
+      "minDate": "",
+      "maxDate": "",
+      "startDate": "",
+      "CustomRangesEnabled": false,
+      "locale": "ru",
+      "format": "DD/MM/YYYY",
+      "separator": " - ",
+      "customRangeLabel": "Range",
+      "defaultText": "Выберите дату",
+      "today": "Сегодня",
+      "yesterday": "Вчера",
+      "lastXDays": "Последние $ дней",
+      "thisMonth": "Этот месяц",
+      "lastMonth": "Пред.месяц"
+    },
+    "visualization": "DateRangePicker",
+    "version": 1,
+    "fixed": true,
+    "width": 25,
+    "percent": true,
+    "selectionMode": "CONFIRM",
+    "extensionMeta": {
+      "translationKey": "",
+      "icon": "table",
+      "iconChar": "puzzle",
+      "isLibraryItem": true,
+      "visible": true,
+      "name": "DateRangePicker",
+      "description": "DateRangePicker",
+      "template": "DateRangePicker",
+      "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+      "isThirdParty": true,
+      "type": "visualization",
+      "version": "1.1.4",
+      "preview": "preview.png",
+      "author": "Nodier Torres",
+      "homepage": "http://branch.qlik.com/#/project/5697a878dcc497f80ed514bf",
+      "keywords": "qlik-sense, visualization",
+      "license": "",
+      "repository": "",
+      "dependencies": {
+        "qlik-sense": ">=1.0.x"
+      },
+      "previewIconURL": "http://localhost:4848/extensions/DateRangePicker/preview.png"
+    },
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 149,
+          "h": 38
+        }
+      },
+      "rtl": false,
+      "parent": {
+        "h": 907,
+        "w": 1920
+      }
+    },
+    "visualizationType": "DateRangePicker",
+    "sourceObjectId": "ZPXzjJ",
+    "sheetId": "cba591c1-4b60-4c39-9e04-43426d389e54",
+    "timestamp": 1593433547262,
+    "isClone": false,
+    "supportExport": false
+  },
+  {
+    "qInfo": {
+      "qId": "bcf167b9-f099-410d-8640-cb3171c15180",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "Товарооборот по себестоимости по КМ",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-07-27T10:01:03.610Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 2,
+        "qcy": 2
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Склад",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 4,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Склад"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 2,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 2,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "R",
+            "qnDec": 14,
+            "qUseThou": 1,
+            "qFmt": "##############",
+            "qDec": ","
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Склад"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [
+            {
+              "qCardinal": 4,
+              "qSize": {
+                "qcx": 2,
+                "qcy": 2
+              },
+              "qFallbackTitle": "Склад",
+              "id": "colorByAlternative",
+              "label": "Склад"
+            }
+          ],
+          "qCardinalities": {
+            "qCardinal": 4,
+            "qHypercubeCardinal": 2,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "NPJCCK",
+          "othersLabel": "Другие"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Товарооборот (отгрузки) по себестоимости",
+          "qApprMaxGlyphCount": 6,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "# ##0,00",
+            "qDec": ",",
+            "qThou": " "
+          },
+          "qMin": 402.5,
+          "qMax": 522.5,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "ZQKYKr",
+          "numFormatFromTemplate": true,
+          "isCustomFormatted": false
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "925,00",
+          "qNum": 925,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Гомель",
+                "qNum": "NaN",
+                "qElemNumber": 3,
+                "qState": "O",
+                "qAttrDims": {
+                  "qValues": [
+                    {
+                      "qText": "Гомель",
+                      "qElemNo": 3
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "402,50",
+                "qNum": 402.5,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Минск",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "O",
+                "qAttrDims": {
+                  "qValues": [
+                    {
+                      "qText": "Минск",
+                      "qElemNo": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "522,50",
+                "qNum": 522.5,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 2,
+            "qHeight": 2
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "title": "Товарооборот по себестоимости по КМ",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "orientation": "vertical",
+    "scrollStartPos": 0,
+    "gridLine": {
+      "auto": true,
+      "spacing": 2
+    },
+    "dataPoint": {
+      "showLabels": true
+    },
+    "color": {
+      "auto": false,
+      "mode": "byDimension",
+      "useBaseColors": "off",
+      "paletteColor": {
+        "index": 6
+      },
+      "useDimColVal": true,
+      "useMeasureGradient": true,
+      "persistent": true,
+      "expressionIsColor": true,
+      "expressionLabel": "",
+      "measureScheme": "sg",
+      "reverseScheme": false,
+      "dimensionScheme": "12",
+      "autoMinMax": true,
+      "measureMin": 0,
+      "measureMax": 10,
+      "altLabel": "Склад",
+      "byDimDef": {
+        "label": "Склад",
+        "key": "Склад",
+        "type": "expression"
+      }
+    },
+    "legend": {
+      "show": true,
+      "dock": "auto",
+      "showTitle": true
+    },
+    "dimensionAxis": {
+      "continuousAuto": true,
+      "show": "all",
+      "label": "auto",
+      "dock": "near"
+    },
+    "preferContinuousAxis": true,
+    "showMiniChartForContinuousAxis": true,
+    "measureAxis": {
+      "show": "labels",
+      "dock": "near",
+      "spacing": 1,
+      "autoMinMax": true,
+      "minMax": "min",
+      "min": 0,
+      "max": 10
+    },
+    "visualization": "barchart",
+    "qHasSoftPatches": false,
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 308,
+          "h": 275
+        }
+      },
+      "rtl": false,
+      "content": {
+        "size": {
+          "w": 308.328125,
+          "h": 244.65625
+        },
+        "chartData": {
+          "scrollOffset": 0,
+          "zoom": {
+            "min": 0,
+            "max": 0
+          },
+          "legendScrollOffset": 0,
+          "legendDataPage": [
+            {
+              "qMatrix": [
+                [
+                  {
+                    "qText": "Гомель",
+                    "qNum": "NaN",
+                    "qElemNumber": 3,
+                    "qState": "O"
+                  },
+                  {
+                    "qText": "3",
+                    "qNum": 3,
+                    "qElemNumber": 0,
+                    "qState": "L"
+                  }
+                ],
+                [
+                  {
+                    "qText": "Минск",
+                    "qNum": "NaN",
+                    "qElemNumber": 0,
+                    "qState": "O"
+                  },
+                  {
+                    "qText": "0",
+                    "qNum": 0,
+                    "qElemNumber": 0,
+                    "qState": "L"
+                  }
+                ]
+              ],
+              "qTails": [
+                {
+                  "qUp": 0,
+                  "qDown": 0
+                }
+              ],
+              "qArea": {
+                "qLeft": 0,
+                "qTop": 0,
+                "qWidth": 2,
+                "qHeight": 2
+              }
+            }
+          ]
+        }
+      },
+      "parent": {
+        "h": 907,
+        "w": 1920
+      }
+    },
+    "reducedHyperCube": {
+      "qSize": {
+        "qcx": 2,
+        "qcy": 2
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Склад",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 4,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Склад"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 2,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 2,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "R",
+            "qnDec": 14,
+            "qUseThou": 1,
+            "qFmt": "##############",
+            "qDec": ","
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Склад"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [
+            {
+              "qCardinal": 4,
+              "qSize": {
+                "qcx": 2,
+                "qcy": 2
+              },
+              "qFallbackTitle": "Склад",
+              "id": "colorByAlternative",
+              "label": "Склад"
+            }
+          ],
+          "qCardinalities": {
+            "qCardinal": 4,
+            "qHypercubeCardinal": 2,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "NPJCCK",
+          "othersLabel": "Другие"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Товарооборот (отгрузки) по себестоимости",
+          "qApprMaxGlyphCount": 6,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "# ##0,00",
+            "qDec": ",",
+            "qThou": " "
+          },
+          "qMin": 402.5,
+          "qMax": 522.5,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "ZQKYKr",
+          "numFormatFromTemplate": true,
+          "isCustomFormatted": false
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "925,00",
+          "qNum": 925,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Гомель",
+                "qNum": "NaN",
+                "qElemNumber": 3,
+                "qState": "O",
+                "qAttrDims": {
+                  "qValues": [
+                    {
+                      "qText": "Гомель",
+                      "qElemNo": 3
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "402,50",
+                "qNum": 402.5,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Минск",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "O",
+                "qAttrDims": {
+                  "qValues": [
+                    {
+                      "qText": "Минск",
+                      "qElemNo": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "522,50",
+                "qNum": 522.5,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 2,
+            "qHeight": 2
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "visualizationType": "barchart",
+    "sourceObjectId": "JdWwr",
+    "sheetId": "2589d2e2-0f82-4342-9290-3c4a021d44e7",
+    "timestamp": 1595844063573,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "d2ba1586-c76f-48f4-8ba4-c4e82e8c41b6",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-06-29T12:45:03.873Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "responsive": "all",
+    "markdown": "^[**%[Операции](4)**](center)",
+    "images": [],
+    "background": {
+      "isUsed": false,
+      "size": "auto",
+      "position": "topLeft",
+      "url": {}
+    },
+    "visualization": "text-image",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 413,
+          "h": 39
+        }
+      },
+      "rtl": false,
+      "scrollTopPercent": 0,
+      "verticalScrollWidth": -0.3439999999999941,
+      "parent": {
+        "h": 907,
+        "w": 1920
+      }
+    },
+    "visualizationType": "text-image",
+    "sourceObjectId": "nSPkmW",
+    "sheetId": "cba591c1-4b60-4c39-9e04-43426d389e54",
+    "timestamp": 1593434703868,
+    "isClone": false,
+    "supportExport": true
+  }
+]

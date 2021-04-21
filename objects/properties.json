@@ -1,0 +1,12 @@
+{
+  "qTitle": "ЧистыйБерег Демо Анализ запасов v4",
+  "qMigrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
+  "qThumbnail": {},
+  "published": true,
+  "description": "",
+  "dynamicColor": "",
+  "stream": {
+    "id": "29cf66ac-42ac-464e-b8d3-1842d7ba2835",
+    "name": "Анализ_запасов"
+  }
+}

@@ -1,0 +1,1260 @@
+[
+  {
+    "qInfo": {
+      "qId": "00420baf-b454-4474-a476-2400517fbf73",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmABC2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "0ab47a63-bf0b-4e32-8aee-17eeda9eb500",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefABC1",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "0",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "0f7c23a1-93a1-43c8-ba25-515ab48bb5dc",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmABC3",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Месяц",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "11873791-fb05-4b6b-b8ea-4ff99d4cccc7",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vLastYear",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "2019",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "12232b26-ba73-491d-8aae-b659ab5a1057",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmEfKM",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "141a67c9-b8e4-4a22-8443-c944b92a7eff",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDef",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Код товара]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "1b9f998c-3e3a-4331-9590-f19a5a20d367",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vKMIzm",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Sum([Выручка без НДС])",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "1be71885-b164-4344-9e22-e0580a18d60c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamObor",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Склад]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "21908050-a4be-44c3-9784-aa31bc27decc",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vLastMonth",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "7",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "2c5cca83-17e7-4a57-85f4-a392800926f8",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamObor5",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Склад]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "2f96865d-2906-4946-ac0d-024401e1c148",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMarginBottom",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "100",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "33452e46-bfc1-4e45-8dae-801f63515610",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefB",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "60%",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "339e217f-b64a-489a-a34c-61395256c64a",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefABC2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "347b8e2d-8d74-4854-825f-0060b9154d4c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCondTime",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Год=,Месяц=,Неделя,Дата=,[Квартал]=,Дата={\">=$(=min(ДатаП)) <=$(=max(ДатаП))\"}",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "358f0538-4dcc-457c-9d55-03fdb9a4d75d",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vOborotTop",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "5",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "35fe15d6-1b37-4d18-878b-4d6b51d55815",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vB",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "80",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "425ae9fd-a1b4-41db-a979-a1184801c736",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "DateFinish",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13.08.2020 16:30:43",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "51909e33-a0fd-440b-be71-c9b4c84cbf96",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vObespZap",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "20",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "51f65cb8-6636-4898-85b7-2cccfb1a6124",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDinOborotCl",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "53e1af84-85be-40a6-8fbb-de09197f0e4f",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "DateStart",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "01.04.2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "5461668d-cda2-44c4-81e1-19500d1e7dda",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamobor6",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "ГодМесяц",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "54a221f2-da2a-4d26-b7c1-44ea70ba8b64",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefA",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "80%",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "55018ed1-4243-441d-9f74-78c684eda4cc",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamObor6",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "5943ab5d-c9ff-476a-8e26-314cb487dad3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmTop2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "5be1c2a2-673f-47a5-bc3f-c8dcd6e891cb",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmYdvec",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "0",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "5c5f2975-7edd-48a1-8c8a-3d6a462c04ed",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDef1",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "5e63075f-de19-45f0-b762-ad73e8d1a6eb",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmNelikvid3",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Склад]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "6750c142-c1b8-4ff4-ba64-bdd75d16efd1",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMarginTop",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "70",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "6b772bb5-56d7-4893-b455-0e198c8473c4",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmNelikvid",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "240",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "6b8793f2-9eb1-4fb5-b3b8-6044f950739c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "PrevPrevWeek",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "31-2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "707b7fde-879c-451a-8722-c0e19a0f3bc2",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vLastWeek",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "32",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "76a7c8bd-c81d-43e6-ab9a-5a52e284e9aa",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vOborGraf",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "7c217a00-b0bf-4fea-ab0b-b6abd4287154",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmTop",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "7e60632e-bc66-4843-87bb-1a7fd984473c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefObesp",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "7e7d885c-361a-4f25-8145-85b1708c3fd2",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmOst",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "8010e25b-658c-4057-b360-70eaf3cb3ede",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCurrentMonth",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "авг.",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "81ade7f6-9492-41a1-835e-27d5c44cd8e3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "DateNow",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13.08.2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "82cde22e-251d-4f1b-9a6b-f15d6a568de9",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vSKU",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Count(distinct(Товар))",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "835e46aa-c3c5-49ca-8674-8fdfaf2e1488",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCurrentWeek",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "33",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "87000241-3f6b-4b46-b012-916d3908f982",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vObRen",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "20",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "87a52d3d-ee30-412e-9d8c-a6a812892fde",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz4",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "893e0c1d-f856-49c8-98d7-5ef005836203",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vTop",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "5",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "8af02bd3-3f3e-485a-882a-c2f0f7f5af05",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz5",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "8d016fde-1243-4d4a-9ee1-d385102e9c3a",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefRez",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "8d994e05-5e35-4fc6-bb60-649a793f770b",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMaxDate",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13.08.2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "8e402318-71fd-4b70-8f42-3ffbcaa449c7",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmOborot3",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "-",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "9ab987c8-5a58-4088-98d4-8427c989c8c7",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamObor4",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "4",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "9dd02e82-a433-44bf-a8db-961efd4db9ae",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmObesp",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Склад]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "a246259b-cf12-4f52-9a51-a92caaccd0d4",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefIzm2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "a52f8a46-de81-4d9d-bfa7-8a7dae694e4b",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCurrentMonth_n",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "8",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "a5cd000a-fdd2-441f-b6f6-0041e053dbb4",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz3",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "11",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "a8f8e8dc-c318-4473-91c6-ed6193460be3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDinOborotCl2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "ab01aa25-65f9-4b24-9bfe-b0f5c02b90ef",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmOborot",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "ac6683df-98d9-4f71-bcff-d5b3a031c5f6",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDelta",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "0",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "acc57426-9402-484e-9e38-581618eecda5",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmABC",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Поставщик]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "af79a16d-7a1c-4859-8259-7c9b42f94bf0",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCurrentYear",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "b30bd90e-08e5-4d03-a5af-ae2e4fdc350a",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "PrevWeek",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "32-2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "be4f67ff-daa0-40d9-b438-b0d785a818b4",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDinamObor2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Категория АВС]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c27eda6a-ca2e-457c-a2c0-df2ed754a5ba",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmDef2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товарная иерархия]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c29351a0-0646-4386-a80b-928e96e8712c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vObMarj",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c628b5dc-2c71-4fbb-ba76-d59097722973",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vX",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "10",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c6497604-ec05-4698-a5e8-b6799be2c74e",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c6e527a1-cd57-43f0-a47b-edbe2965d0a0",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vYcl",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "c72455e4-75ba-4066-a346-050cb9f88fa3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMinDateZ",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "01.04.2020",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "ca426347-9991-44f4-a07c-2652d907c81d",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmOborot2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Склад]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "cc01b807-4397-4a98-90e7-a3e572b7d5d3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vY",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "20",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "cec56b6b-9043-426a-9680-e642611df00b",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmKM",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "d3fa5c0d-b3f5-4107-8306-26c5b64831df",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vRoznica",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "d6b16ba5-e7f9-4d08-a597-e43771729ea8",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz6",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "14",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "d7acef9a-2724-42e4-8509-580c32dc28f8",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmProiz",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Товар]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "dbdcfa6d-dab9-49dd-a057-e6428a6ac391",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefMin",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "2",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "e1f85419-2ab2-4b91-a507-6f78570d1c6e",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefABC3",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "e238c9f4-2956-46b5-a63d-694899839160",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vTovZam",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "e56a7f2c-a917-4811-bae9-ccb5295103df",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmOst2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Код товара]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "e73f81fc-dea4-4395-9757-20ec4ebc6ffc",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vA",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "50",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "ebd03d27-25b2-443f-b198-55a90cc0f4dc",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vLastQuarter",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "2",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "eef82485-7559-47c8-ba1f-f44673cf530f",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmEfKM2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "1",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "effbcb27-4c89-43a4-a7a2-22af09782560",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMaxDateZ",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "13.08.2020 16:30:43",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "f2a8d7a2-cfe5-44b9-88d1-c56ea99a9c6c",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmNelikvid2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Код товара]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "f2e66138-4a94-4183-a5b0-fdc63dcd8262",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vObespZap2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "10",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "f3d378b3-c2b3-4222-8f68-87d5f27fa968",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vCurrentQuarter",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "3",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "f4c6fcc3-2727-4ece-b046-3d4fd495f047",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmKPI",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Менеджер, ответственный за закупки]",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "f53d4d60-dd51-4dff-ba9a-6d072aadcf5d",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDefC",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "50%",
+    "tags": []
+  },
+  {
+    "qInfo": {
+      "qId": "fcb9ea38-1dcf-426a-b346-678c39101a6a",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vIzmObesp2",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "[Код товара]",
+    "tags": []
+  }
+]

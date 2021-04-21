@@ -1,0 +1,1756 @@
+{
+  "qInfos": [
+    {
+      "qId": "00b291d9-0068-44c9-8022-3b96a0caac11",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "01adde6b-df7d-42ec-9275-fadb82cb5dcd",
+      "qType": "listbox"
+    },
+    {
+      "qId": "0214f4ec-f70c-4dc0-80f3-587726741429",
+      "qType": "sheet"
+    },
+    {
+      "qId": "05f83d3d-4266-48ee-bc2c-9eee6fddab5d",
+      "qType": "listbox"
+    },
+    {
+      "qId": "09c577f1-ca30-49b0-95c0-badcea9e7cdb",
+      "qType": "variable"
+    },
+    {
+      "qId": "0a0192b7-dafa-4637-8727-b1e191053007",
+      "qType": "variable"
+    },
+    {
+      "qId": "0b41ed80-948f-463f-be99-796b6fdc4e71",
+      "qType": "sheet"
+    },
+    {
+      "qId": "10a6efbc-0ad6-48bc-9dbe-942b6a4ecb73",
+      "qType": "listbox"
+    },
+    {
+      "qId": "10d0dd6b-ec07-4615-a18b-24afe8b57345",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "10de50eb-e998-43a7-9cb6-4b2a34f78a83",
+      "qType": "scatterplot"
+    },
+    {
+      "qId": "1163d0db-25d7-40ca-a6fe-500d3c741304",
+      "qType": "sheet"
+    },
+    {
+      "qId": "11bc14d8-b0af-43fc-a24d-a0a2e73a1803",
+      "qType": "variable"
+    },
+    {
+      "qId": "1560e0cc-6353-4562-a498-8a7fe4d6154f",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "1631a7d3-e752-40cd-af30-0f96d39cb439",
+      "qType": "variable"
+    },
+    {
+      "qId": "18f1a504-9bd5-4bd2-aec0-9ed48d51e849",
+      "qType": "listbox"
+    },
+    {
+      "qId": "19dda1f4-3b86-45ac-98ca-8198b57f3bd6",
+      "qType": "listbox"
+    },
+    {
+      "qId": "1b33b0da-3432-4e53-a1e6-98285951dce8",
+      "qType": "variable"
+    },
+    {
+      "qId": "1b55fead-fbfa-4140-9931-b21386bed67d",
+      "qType": "text-image"
+    },
+    {
+      "qId": "1f06dc5f-8a79-437a-8dfb-7895b38b0a81",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "212744b6-5567-4c42-8190-f6850dcd1a15",
+      "qType": "variable"
+    },
+    {
+      "qId": "2188287b-f79a-489d-8694-53b8c7423377",
+      "qType": "sheet"
+    },
+    {
+      "qId": "21ea846b-5076-46da-9f2a-7b12b15ad072",
+      "qType": "sheet"
+    },
+    {
+      "qId": "225292ec-5039-483d-9f8d-8b01b847c049",
+      "qType": "story"
+    },
+    {
+      "qId": "2589d2e2-0f82-4342-9290-3c4a021d44e7",
+      "qType": "sheet"
+    },
+    {
+      "qId": "29d81c38-a5ec-4753-acb0-341192c1feb4",
+      "qType": "text-image"
+    },
+    {
+      "qId": "2c8b99bd-9369-4fd4-9536-c1a9845ff51e",
+      "qType": "listbox"
+    },
+    {
+      "qId": "2db98a7f-48a2-4df1-b002-eeca14b7ca43",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "311e6503-9623-42fd-88e2-72cd8e3a257f",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "338cd3f7-f044-453e-a401-48c505586ec8",
+      "qType": "masterobject"
+    },
+    {
+      "qId": "33925bac-fb27-4be2-a2bb-9f67faa711b6",
+      "qType": "listbox"
+    },
+    {
+      "qId": "378f3134-a301-43f5-ba64-23418e1e540e",
+      "qType": "table"
+    },
+    {
+      "qId": "3aa264d3-5e08-4676-9a78-7b4983e40e40",
+      "qType": "appprops"
+    },
+    {
+      "qId": "3c12cb04-400b-4b27-8fac-34a77e25c6a0",
+      "qType": "listbox"
+    },
+    {
+      "qId": "3d1d017e-f81e-4ee8-8cc8-a716208dc23f",
+      "qType": "variable"
+    },
+    {
+      "qId": "415bcede-8689-474f-93ee-981ae00f01ae",
+      "qType": "listbox"
+    },
+    {
+      "qId": "426c2073-3f69-47df-bdc7-96eb8aaf75d0",
+      "qType": "text-image"
+    },
+    {
+      "qId": "43d37574-b38b-4580-8f27-6deaa5a70193",
+      "qType": "text-image"
+    },
+    {
+      "qId": "45b985e5-20f6-4ca8-a859-8a2ff0d0597b",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "469e1d94-75b0-4fc5-b9ad-d30649cfae53",
+      "qType": "listbox"
+    },
+    {
+      "qId": "4c66cb45-2216-4bd3-9d47-e12f1568ac35",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "4e656d5f-161c-4a62-9440-4a15d9600ba4",
+      "qType": "listbox"
+    },
+    {
+      "qId": "4f0e1382-572f-40de-8fc0-0c18695b39fc",
+      "qType": "text-image"
+    },
+    {
+      "qId": "52b62a20-3182-44f4-8545-4d164c059baf",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "52e56fb3-8e48-4e24-9364-153a0a5e80de",
+      "qType": "listbox"
+    },
+    {
+      "qId": "53a0acbd-6657-4a2b-abb6-3449fea580a7",
+      "qType": "sheet"
+    },
+    {
+      "qId": "56872cd8-df10-4259-bbad-ed83aebb8009",
+      "qType": "listbox"
+    },
+    {
+      "qId": "56eb3f81-c901-4d42-b3dc-6f9c78dc82e1",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "575313a4-cc2f-4af8-8239-73d5d7b8332d",
+      "qType": "text-image"
+    },
+    {
+      "qId": "5a6c8e17-e0e4-49c3-9ba4-4f3318b2a4b5",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "5f487ffc-49e8-4bf4-bba6-b3421f270dd0",
+      "qType": "listbox"
+    },
+    {
+      "qId": "60184c3f-b3d8-43af-b0c5-d848985a3bf7",
+      "qType": "listbox"
+    },
+    {
+      "qId": "612e8848-86c3-4560-ba05-64ef4a5f69bc",
+      "qType": "barchart"
+    },
+    {
+      "qId": "63bda5de-d2bf-473f-87ef-d1017b833116",
+      "qType": "listbox"
+    },
+    {
+      "qId": "6507d03e-248b-4ae3-b76f-f7343b5fab04",
+      "qType": "listbox"
+    },
+    {
+      "qId": "68763cc2-1db0-45a8-a8d4-dd1c5ae33959",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "6c140d3b-e092-42d3-afe5-144472a294be",
+      "qType": "text-image"
+    },
+    {
+      "qId": "6ecd911a-5298-4801-8fe1-e652bdb08a79",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "6edf930b-cd11-460a-80f6-57b707cafba3",
+      "qType": "listbox"
+    },
+    {
+      "qId": "6faf2c55-b541-4d07-b6e8-1bbfb84ce355",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7138cfbc-5388-4158-907f-d21d65695c6d",
+      "qType": "text-image"
+    },
+    {
+      "qId": "715920a1-9ff3-495f-8077-6f8b8e372ee4",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7181818b-623b-4e13-8017-750bb52af160",
+      "qType": "listbox"
+    },
+    {
+      "qId": "72c97fc8-f400-41ea-bac6-e80914628f82",
+      "qType": "listbox"
+    },
+    {
+      "qId": "737ccf48-544b-4b5a-a04e-92e6c7a9ff16",
+      "qType": "sheet"
+    },
+    {
+      "qId": "754523cc-0fb4-4c32-8daf-00da6dc57372",
+      "qType": "listbox"
+    },
+    {
+      "qId": "754919d3-c798-4a2b-aeac-4a177beff5b9",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "78e70934-3144-4474-9857-16214045794b",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7aa9faa6-50eb-41e6-981c-fa55ef6d9c59",
+      "qType": "text-image"
+    },
+    {
+      "qId": "7ccbb658-8979-4072-9345-f972ffc0cb7e",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7ddaedb4-6ba9-4ec5-874b-88895974f22a",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7e3522ea-622b-4e17-8691-7ea86b32bc04",
+      "qType": "listbox"
+    },
+    {
+      "qId": "7e8b07fd-8a4f-4688-bb71-6dae25235fef",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "819168c1-68d4-4fa0-bac9-c3fcb7e506d3",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "822e48cc-23b9-4497-abf4-ee42389b89fe",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "88c277c3-bad2-4db8-b940-7af2614bfd93",
+      "qType": "listbox"
+    },
+    {
+      "qId": "8953ca02-0970-4de3-b72b-6c9c5132273a",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "89c68ef2-8b61-4f97-8ef1-2e07d1103653",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "89ec8b59-b203-4ad0-8012-e6cc655046eb",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "8a28be9d-5c39-4a3c-982b-ef544d2f718e",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "8a42c46a-2332-4078-a652-426bd4856c51",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "8a92fcde-300a-4f99-a589-a1a7ee17615b",
+      "qType": "listbox"
+    },
+    {
+      "qId": "8e4a98b3-1216-4271-ac7c-ea97c8915c31",
+      "qType": "listbox"
+    },
+    {
+      "qId": "912cc38a-b603-4c7f-b15f-fa0aadedf544",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "949b761e-d1c1-4c8b-8b0e-08cb5ec5d39f",
+      "qType": "text-image"
+    },
+    {
+      "qId": "96808a05-c376-4870-a16a-af4e6f83da8d",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "96d57a83-789c-4076-9a5e-e2e5fd965351",
+      "qType": "listbox"
+    },
+    {
+      "qId": "9e881432-6724-4648-bbec-aac925801b40",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "9fb27a3e-7ed9-48bb-81c5-83947812e036",
+      "qType": "sheet"
+    },
+    {
+      "qId": "ACCWYBn",
+      "qType": "barchart"
+    },
+    {
+      "qId": "AEsArT",
+      "qType": "variable"
+    },
+    {
+      "qId": "ASUQdM",
+      "qType": "listbox"
+    },
+    {
+      "qId": "AkwwnK",
+      "qType": "variable"
+    },
+    {
+      "qId": "AmAPZJh",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "AuTeCB",
+      "qType": "slide"
+    },
+    {
+      "qId": "BJTXu",
+      "qType": "text-image"
+    },
+    {
+      "qId": "BQhyG",
+      "qType": "listbox"
+    },
+    {
+      "qId": "BRjPu",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "Bpek",
+      "qType": "text-image"
+    },
+    {
+      "qId": "BufPJ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "CGsdXm",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "CKLgJfj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "CSKhn",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "CjLHz",
+      "qType": "text-image"
+    },
+    {
+      "qId": "CtmbP",
+      "qType": "listbox"
+    },
+    {
+      "qId": "DAvfNJ",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "DCjgtF",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "DPZJDgC",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "DQjDQu",
+      "qType": "listbox"
+    },
+    {
+      "qId": "Dgmb",
+      "qType": "listbox"
+    },
+    {
+      "qId": "DpgMM",
+      "qType": "variable"
+    },
+    {
+      "qId": "DuEVhxF",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "ECAJCQ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "EJmJkJ",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "EKMsTHP",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "EgJa",
+      "qType": "listbox"
+    },
+    {
+      "qId": "EnSfPP",
+      "qType": "variable"
+    },
+    {
+      "qId": "EpDGtM",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "ErDRpa",
+      "qType": "variable"
+    },
+    {
+      "qId": "EuCeZW",
+      "qType": "barchart"
+    },
+    {
+      "qId": "EukEJ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "FARVA",
+      "qType": "text-image"
+    },
+    {
+      "qId": "FDVCfp",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "FKwTAeE",
+      "qType": "listbox"
+    },
+    {
+      "qId": "FPDp",
+      "qType": "variable"
+    },
+    {
+      "qId": "FTNzJMz",
+      "qType": "variable"
+    },
+    {
+      "qId": "FfcYp",
+      "qType": "listbox"
+    },
+    {
+      "qId": "FpzdRuh",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "GEPJbk",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "GJREUmX",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "GRGJeh",
+      "qType": "variable"
+    },
+    {
+      "qId": "GRPmsP",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "GVpphv",
+      "qType": "variable"
+    },
+    {
+      "qId": "GcJcJW",
+      "qType": "variable"
+    },
+    {
+      "qId": "GkhJR",
+      "qType": "variable"
+    },
+    {
+      "qId": "GmpwWy",
+      "qType": "listbox"
+    },
+    {
+      "qId": "GqCJxu",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "GrTPmf",
+      "qType": "variable"
+    },
+    {
+      "qId": "HHHyd",
+      "qType": "text-image"
+    },
+    {
+      "qId": "HJBSW",
+      "qType": "barchart"
+    },
+    {
+      "qId": "HzXAgzr",
+      "qType": "variable"
+    },
+    {
+      "qId": "HzcuqL",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "JCLy",
+      "qType": "listbox"
+    },
+    {
+      "qId": "JJJsZ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "JKuwMZ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "JYjFu",
+      "qType": "variable"
+    },
+    {
+      "qId": "JZbABg",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "JaVJC",
+      "qType": "variable"
+    },
+    {
+      "qId": "Jbzxpws",
+      "qType": "linechart"
+    },
+    {
+      "qId": "JdWwr",
+      "qType": "barchart"
+    },
+    {
+      "qId": "JdmYTSF",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "JeeaKq",
+      "qType": "text-image"
+    },
+    {
+      "qId": "JjcfJr",
+      "qType": "variable"
+    },
+    {
+      "qId": "JxsvMBk",
+      "qType": "listbox"
+    },
+    {
+      "qId": "KAPKc",
+      "qType": "text-image"
+    },
+    {
+      "qId": "KTzQnS",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "KhNSU",
+      "qType": "text-image"
+    },
+    {
+      "qId": "KvBVgj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "LBsLAT",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "LBzuwAT",
+      "qType": "listbox"
+    },
+    {
+      "qId": "LLBJuFx",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "LXPpXD",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "LpnpHq",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "LwhjPQ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "MCyG",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "MGxY",
+      "qType": "container"
+    },
+    {
+      "qId": "MRkpa",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "MSaTn",
+      "qType": "table"
+    },
+    {
+      "qId": "MTZnX",
+      "qType": "variable"
+    },
+    {
+      "qId": "MeezzaQ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "MjEVKTs",
+      "qType": "text-image"
+    },
+    {
+      "qId": "MpbE",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "NMEFDF",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "NNfjRV",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "NPERJxZ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "NdfPap",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "NdkDS",
+      "qType": "text-image"
+    },
+    {
+      "qId": "NzZDf",
+      "qType": "variable"
+    },
+    {
+      "qId": "PDdFp",
+      "qType": "table"
+    },
+    {
+      "qId": "PKXybGp",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "PKpZxkV",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "PPMeTW",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "PkJuc",
+      "qType": "listbox"
+    },
+    {
+      "qId": "PpB",
+      "qType": "linechart"
+    },
+    {
+      "qId": "Pujxk",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "PvZgZ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "PwXkdm",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "PxBQZtW",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "QFjnp",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "QHJmPX",
+      "qType": "text-image"
+    },
+    {
+      "qId": "QNGwPcJ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "QQp",
+      "qType": "text-image"
+    },
+    {
+      "qId": "QWYzP",
+      "qType": "variable"
+    },
+    {
+      "qId": "QXgqn",
+      "qType": "variable"
+    },
+    {
+      "qId": "QjMMfKB",
+      "qType": "variable"
+    },
+    {
+      "qId": "QrjHynz",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "Qxhyjyh",
+      "qType": "combochart"
+    },
+    {
+      "qId": "RFKyw",
+      "qType": "listbox"
+    },
+    {
+      "qId": "RRjktUw",
+      "qType": "variable"
+    },
+    {
+      "qId": "RVHvwj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "RXYAwWV",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "RkJNBC",
+      "qType": "scatterplot"
+    },
+    {
+      "qId": "RpCPDN",
+      "qType": "variable"
+    },
+    {
+      "qId": "SFKA",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "SNEGtbu",
+      "qType": "variable"
+    },
+    {
+      "qId": "SQdSd",
+      "qType": "listbox"
+    },
+    {
+      "qId": "SSWyaz",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "SZBKUy",
+      "qType": "variable"
+    },
+    {
+      "qId": "ScrSUaq",
+      "qType": "variable"
+    },
+    {
+      "qId": "Sjgr",
+      "qType": "listbox"
+    },
+    {
+      "qId": "SqVQzU",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "TRPpkZa",
+      "qType": "listbox"
+    },
+    {
+      "qId": "TatDLpW",
+      "qType": "variable"
+    },
+    {
+      "qId": "TdMJt",
+      "qType": "listbox"
+    },
+    {
+      "qId": "TgfCK",
+      "qType": "listbox"
+    },
+    {
+      "qId": "TjJarp",
+      "qType": "variable"
+    },
+    {
+      "qId": "TuUJm",
+      "qType": "text-image"
+    },
+    {
+      "qId": "TvPHMe",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "Ugkqwmb",
+      "qType": "variable"
+    },
+    {
+      "qId": "UjCwJe",
+      "qType": "variable"
+    },
+    {
+      "qId": "VEXAVJW",
+      "qType": "linechart"
+    },
+    {
+      "qId": "VFFPbr",
+      "qType": "linechart"
+    },
+    {
+      "qId": "VTbTsdT",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "VmbvJN",
+      "qType": "text-image"
+    },
+    {
+      "qId": "Vnnpr",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "Vpepn",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "VsRZNK",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "VwxMuh",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "VzuReG",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "WWFF",
+      "qType": "text-image"
+    },
+    {
+      "qId": "WgZNN",
+      "qType": "text-image"
+    },
+    {
+      "qId": "WgyvH",
+      "qType": "listbox"
+    },
+    {
+      "qId": "WjUyHur",
+      "qType": "variable"
+    },
+    {
+      "qId": "WnbMj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "WpARLg",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "XReKMdq",
+      "qType": "text-image"
+    },
+    {
+      "qId": "XSYrQp",
+      "qType": "variable"
+    },
+    {
+      "qId": "XZVkNUj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "XgFpskf",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "XqjpW",
+      "qType": "table"
+    },
+    {
+      "qId": "XrnEbLD",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "Xumqtw",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "Xvmpc",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "YETkv",
+      "qType": "table"
+    },
+    {
+      "qId": "YJDjPG",
+      "qType": "variable"
+    },
+    {
+      "qId": "YQfQD",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "YbUyPa",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "YekZYJ",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "YhZMePZ",
+      "qType": "piechart"
+    },
+    {
+      "qId": "YsJCDw",
+      "qType": "variable"
+    },
+    {
+      "qId": "ZCuUkE",
+      "qType": "text-image"
+    },
+    {
+      "qId": "ZEdVxXJ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ZFwuGB",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "ZNhphhJ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ZPXzjJ",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "ZTaZJQm",
+      "qType": "text-image"
+    },
+    {
+      "qId": "ZcKmuET",
+      "qType": "text-image"
+    },
+    {
+      "qId": "ZjdBS",
+      "qType": "text-image"
+    },
+    {
+      "qId": "ZpZnLQ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "ZwSvKPR",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ZxfLzKK",
+      "qType": "text-image"
+    },
+    {
+      "qId": "a0be80c8-1124-4f15-86fe-331654cee9a8",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "a17842b4-f16d-4bd2-91f0-cb3bccd457ed",
+      "qType": "listbox"
+    },
+    {
+      "qId": "a17bc492-b484-43a8-8464-11466f297807",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "a2d9f537-9546-4e8e-99a2-d68d1737023c",
+      "qType": "variable"
+    },
+    {
+      "qId": "a39798aa-71ec-4dbf-8236-609020d38d6c",
+      "qType": "variable"
+    },
+    {
+      "qId": "a59350be-09c8-4bcb-a161-c881eafdbf26",
+      "qType": "text-image"
+    },
+    {
+      "qId": "a635ab71-3bd2-4c08-b426-24a8bfa338b5",
+      "qType": "listbox"
+    },
+    {
+      "qId": "aJLa",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "aMxERU",
+      "qType": "barchart"
+    },
+    {
+      "qId": "aQndP",
+      "qType": "variable"
+    },
+    {
+      "qId": "aXnD",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "abUUkNg",
+      "qType": "container"
+    },
+    {
+      "qId": "ac562621-e84b-4c38-b904-d5cb15b18992",
+      "qType": "variable"
+    },
+    {
+      "qId": "ac909d06-4f5b-46cb-9c3b-b326c4e40f6a",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ad9d747c-792e-4353-a856-0770c56d4e06",
+      "qType": "sheet"
+    },
+    {
+      "qId": "ae81e76e-cefa-44c3-b783-4c62830ffeb5",
+      "qType": "listbox"
+    },
+    {
+      "qId": "akKqFzG",
+      "qType": "variable"
+    },
+    {
+      "qId": "auDBqyn",
+      "qType": "table"
+    },
+    {
+      "qId": "b06c6c60-cc0b-4327-8910-59fc91c24857",
+      "qType": "listbox"
+    },
+    {
+      "qId": "b100c3b8-9c72-4aff-9f4f-2e010106665a",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "b3dd7d30-109b-41d5-82f7-895959f4faa6",
+      "qType": "sheet"
+    },
+    {
+      "qId": "b428cd3b-3dc0-4105-816c-bc877db52298",
+      "qType": "listbox"
+    },
+    {
+      "qId": "b7e6eb97-a0c8-4625-857d-c9a0e116778d",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "b82b22a9-0374-4950-a3d3-2d24ad6ed9cf",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "b995fc41-b173-4925-a9bd-a8e22e02337b",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "b9e46733-add3-40d8-9b3e-166055187aa3",
+      "qType": "sheet"
+    },
+    {
+      "qId": "ba503095-cdc8-47e4-afac-a0d10d273a29",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "bc82bff1-dee1-4eff-9fb2-cb02bb7587da",
+      "qType": "listbox"
+    },
+    {
+      "qId": "bcf167b9-f099-410d-8640-cb3171c15180",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "bgWXcXM",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "bumujdy",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "bxmnpmw",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "c0c78d18-9af8-4802-a80c-3cc896c26f54",
+      "qType": "listbox"
+    },
+    {
+      "qId": "c12fc78d-04b0-47fb-8622-379416a20009",
+      "qType": "listbox"
+    },
+    {
+      "qId": "c234cc80-4824-445e-a678-44e0b68caafd",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "c3acb4bb-92bb-4aa9-bfee-50ed5ace6d2d",
+      "qType": "listbox"
+    },
+    {
+      "qId": "c874e124-b13a-45dd-9491-83cf60b75c8d",
+      "qType": "listbox"
+    },
+    {
+      "qId": "c9f9c73c-455d-4636-a42f-190ff140cc03",
+      "qType": "listbox"
+    },
+    {
+      "qId": "cDQeKV",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "cDjVQN",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "cPzAdn",
+      "qType": "variable"
+    },
+    {
+      "qId": "cRnntY",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "catfbyP",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "cba591c1-4b60-4c39-9e04-43426d389e54",
+      "qType": "sheet"
+    },
+    {
+      "qId": "cbjJw",
+      "qType": "variable"
+    },
+    {
+      "qId": "cc6bb240-5a5d-4ddc-b926-e17bf66a8951",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ce8cb28c-303d-4c26-be4a-e828cec0d37c",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "cfebd13e-b05a-4227-b1fa-0b284cfd88b6",
+      "qType": "sheet"
+    },
+    {
+      "qId": "cpevcpg",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "ctKpMqN",
+      "qType": "variable"
+    },
+    {
+      "qId": "cuzPJG",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "czJFRC",
+      "qType": "text-image"
+    },
+    {
+      "qId": "d0029f1b-3f81-4464-93a5-6d463fa90b1d",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "d16155b2-4e09-48f2-8684-789c49792b59",
+      "qType": "listbox"
+    },
+    {
+      "qId": "d2ba1586-c76f-48f4-8ba4-c4e82e8c41b6",
+      "qType": "snapshot"
+    },
+    {
+      "qId": "d2c15268-455c-46cf-874e-53b1208fb8c6",
+      "qType": "listbox"
+    },
+    {
+      "qId": "d2f321c3-a548-414d-baa1-f4ed5f04d6c7",
+      "qType": "listbox"
+    },
+    {
+      "qId": "d57f3f7a-df7f-4b94-bc67-de25c5f9bc63",
+      "qType": "listbox"
+    },
+    {
+      "qId": "d9d0b17d-4e9f-4338-abf4-47521842272a",
+      "qType": "listbox"
+    },
+    {
+      "qId": "daejBpu",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "db51d763-3032-4104-8473-ae81cb6743dd",
+      "qType": "variable"
+    },
+    {
+      "qId": "db5db712-6e2f-4029-b1f2-e21b26911917",
+      "qType": "sheet"
+    },
+    {
+      "qId": "de877dc1-ab99-4c51-b6e2-8c3c6b00aeb7",
+      "qType": "text-image"
+    },
+    {
+      "qId": "dfbb22e9-e428-45fa-842a-3347fe040096",
+      "qType": "listbox"
+    },
+    {
+      "qId": "dgGrDc",
+      "qType": "listbox"
+    },
+    {
+      "qId": "dnmBwW",
+      "qType": "variable"
+    },
+    {
+      "qId": "dpPDd",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "duvJFM",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e3de2430-a24b-45a0-8dac-99a91cee73d4",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e43f05f7-a2a5-479a-a7b2-85d44d45eed1",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e4a0b25c-02ff-4772-8739-d7e303e52799",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e5da00b2-4aff-4464-ab4a-efbea776ca67",
+      "qType": "variable"
+    },
+    {
+      "qId": "e63ceda2-e511-4eb5-af47-e30c0506923a",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e7dfa455-c910-4163-a546-2f3f838af5dd",
+      "qType": "sheet"
+    },
+    {
+      "qId": "e85c2d87-435e-44f7-a858-11e6d99e4c2e",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e9828b74-90b9-42c4-bd19-b37247b5aaac",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "e99b1e58-e1de-4e8b-a343-8c40dd1f3bc8",
+      "qType": "listbox"
+    },
+    {
+      "qId": "e9c8dc2a-5672-418b-a10f-a3d305aeb2ed",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "eCPLdJp",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "eJdgPY",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "eJzyTEa",
+      "qType": "listbox"
+    },
+    {
+      "qId": "eRvqk",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "eTvUGn",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "edpwaF",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "ee109b5a-9b08-47d1-88dc-3bdce5dc9cfd",
+      "qType": "listbox"
+    },
+    {
+      "qId": "enedBpB",
+      "qType": "text-image"
+    },
+    {
+      "qId": "evWjzN",
+      "qType": "text-image"
+    },
+    {
+      "qId": "f46937f3-5c20-4487-b9f6-4ed472a41d04",
+      "qType": "listbox"
+    },
+    {
+      "qId": "f4d52b00-4b07-48df-8c96-b7c35fdb159c",
+      "qType": "text-image"
+    },
+    {
+      "qId": "f52b4d43-348f-4227-b923-c2dd3298131d",
+      "qType": "linechart"
+    },
+    {
+      "qId": "f8bb6340-ad21-4677-9375-c43c6b29948b",
+      "qType": "text-image"
+    },
+    {
+      "qId": "f9a7f929-2082-4040-aa0c-a9d8d15e2c5d",
+      "qType": "listbox"
+    },
+    {
+      "qId": "fQtGLpj",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "fbnrs",
+      "qType": "variable"
+    },
+    {
+      "qId": "ffa4a25a-3cdb-43e0-a586-091c2474c2ed",
+      "qType": "listbox"
+    },
+    {
+      "qId": "ffabedac-ae4d-4c8d-8c97-4ffe4793d6b9",
+      "qType": "listbox"
+    },
+    {
+      "qId": "fhtrYJS",
+      "qType": "variable"
+    },
+    {
+      "qId": "fzNqHD",
+      "qType": "variable"
+    },
+    {
+      "qId": "gJtr",
+      "qType": "text-image"
+    },
+    {
+      "qId": "gUYjfVJ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "hAMxuG",
+      "qType": "listbox"
+    },
+    {
+      "qId": "hDSmWK",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "hMdyqS",
+      "qType": "text-image"
+    },
+    {
+      "qId": "hQGbBQ",
+      "qType": "variable"
+    },
+    {
+      "qId": "hfwmej",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "hpNv",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jBuWWb",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jDJRcp",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jEUJ",
+      "qType": "pivot-table"
+    },
+    {
+      "qId": "jEpTj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jJEhPqj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jNCn",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jQYSL",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jTPSGu",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "jVPBr",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jXbfpm",
+      "qType": "listbox"
+    },
+    {
+      "qId": "jZmQKLu",
+      "qType": "variable"
+    },
+    {
+      "qId": "jjymFP",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "jsGJL",
+      "qType": "text-image"
+    },
+    {
+      "qId": "juX",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "jvQNf",
+      "qType": "listbox"
+    },
+    {
+      "qId": "jzeC",
+      "qType": "text-image"
+    },
+    {
+      "qId": "kJZyP",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "kQTyATL",
+      "qType": "text-image"
+    },
+    {
+      "qId": "kYsrJj",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "kaWwdxJ",
+      "qType": "DateRangePicker"
+    },
+    {
+      "qId": "mPSPJyy",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "mPfVmr",
+      "qType": "text-image"
+    },
+    {
+      "qId": "mTXJRK",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "mdWT",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "mgpupK",
+      "qType": "variable"
+    },
+    {
+      "qId": "mhcRky",
+      "qType": "listbox"
+    },
+    {
+      "qId": "mzpKJA",
+      "qType": "variable"
+    },
+    {
+      "qId": "nFNxsPV",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "nKkRc",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "nNHFm",
+      "qType": "variable"
+    },
+    {
+      "qId": "nSPkmW",
+      "qType": "text-image"
+    },
+    {
+      "qId": "nbWLuJn",
+      "qType": "variable"
+    },
+    {
+      "qId": "nsLduA",
+      "qType": "variable"
+    },
+    {
+      "qId": "nyPkY",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "pJGYpj",
+      "qType": "variable"
+    },
+    {
+      "qId": "pJpB",
+      "qType": "variable"
+    },
+    {
+      "qId": "pPvDdG",
+      "qType": "listbox"
+    },
+    {
+      "qId": "pQmHXQ",
+      "qType": "barchart"
+    },
+    {
+      "qId": "pRNJgDj",
+      "qType": "variable"
+    },
+    {
+      "qId": "pYjnzq",
+      "qType": "listbox"
+    },
+    {
+      "qId": "peYS",
+      "qType": "listbox"
+    },
+    {
+      "qId": "prUdXPq",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "ptaZxTe",
+      "qType": "listbox"
+    },
+    {
+      "qId": "pyKvD",
+      "qType": "text-image"
+    },
+    {
+      "qId": "pzwbQne",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "qDPzsU",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "qXGBaJ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "qmTnm",
+      "qType": "listbox"
+    },
+    {
+      "qId": "rYbDG",
+      "qType": "table"
+    },
+    {
+      "qId": "rppCGj",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "sue",
+      "qType": "text-image"
+    },
+    {
+      "qId": "tBqymS",
+      "qType": "variable"
+    },
+    {
+      "qId": "thcqkJy",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "uKaWRjf",
+      "qType": "variable"
+    },
+    {
+      "qId": "uRBerj",
+      "qType": "qsSimpleList"
+    },
+    {
+      "qId": "ugbGYsq",
+      "qType": "listbox"
+    },
+    {
+      "qId": "unXbWL",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "vRmzn",
+      "qType": "variable"
+    },
+    {
+      "qId": "vjvFPX",
+      "qType": "text-image"
+    },
+    {
+      "qId": "vsFrth",
+      "qType": "qsSimpleKPI"
+    },
+    {
+      "qId": "wBCsmm",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "wmELTH",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "wzjFNbN",
+      "qType": "variable"
+    },
+    {
+      "qId": "yJYZnG",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "yPfEJwc",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "yUHFCYJ",
+      "qType": "listbox"
+    },
+    {
+      "qId": "yVLqMEz",
+      "qType": "variable"
+    },
+    {
+      "qId": "ycDGb",
+      "qType": "variable"
+    },
+    {
+      "qId": "yrpGWr",
+      "qType": "listbox"
+    },
+    {
+      "qId": "zDewVw",
+      "qType": "variable"
+    },
+    {
+      "qId": "zMtLgP",
+      "qType": "variable"
+    },
+    {
+      "qId": "zpdy",
+      "qType": "variable"
+    }
+  ]
+}

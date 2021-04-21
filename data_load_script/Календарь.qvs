@@ -1,0 +1,53 @@
+///$tab Календарь
+LET DateStart =MakeDate(2020,4,01); // дата начала загрузки данных!!!!! 
+LET DateFinish =  now(1); //Date(Peek('Дата',,'Движения')-1); 
+let vMaxDate=Date(today());
+let vMaxDateZ='$(DateFinish)';
+let vMinDateZ='$(DateStart)';
+
+LET DateNow = date(DateFinish);//дата сегодня
+
+LET PrevWeek=Week(Date(DateNow-7)) & '-' & Year(Date(DateNow-7)); // предыдущая неделя
+LET PrevPrevWeek=Week(Date(DateNow-14)) &'-'& Year(Date(DateNow-14)); // предпредыщая неделя
+
+LET vCurrentYear = Year(DateNow); // текущий год
+LET vLastYear = Year(DateNow)-1; // прошлый год
+
+LET vCurrentQuarter = Ceil(Month(DateNow)/3); // текущий квартал
+LET vLastQuarter = Ceil(Month(DateNow)/3)-1; // прошлый квартал
+
+LET vCurrentMonth = Month(DateNow); // текущий месяц
+LET vCurrentMonth_n = NUM(Month(DateNow)); // текущий месяц
+LET vLastMonth = Month(DateNow)-1; // прошлый месяц
+
+LET vCurrentWeek = (1+ceil((DateNow-floor(weekend( yearstart(DateNow),0,0)))/7)); // текущая неделя
+LET vLastWeek = Week(DateNow)-1; // прошлая неделя
+
+
+Calendar:
+LOAD
+    DateId as Дата,
+    Year(DateId) as 'Год',
+    'П' & Ceil(Month(DateId)/6) AS 'Полугодие',    
+    'K' & Ceil(Month(DateId)/3) AS 'Квартал',       
+    Month(DateId) as 'Месяц',
+    (1+ceil((DateId-floor(weekend( yearstart(DateId),0,0)))/7)) as 'Неделя',    
+    WeekDay(DateId) as 'ДеньНедели',  
+    Day(DateId) as 'День', 
+    Year(DateId) & 'K' & Ceil(Month(DateId)/3) AS 'ГодКвартал',    
+    Year(DateId)&'-'&num(Month(DateId),'00') as 'ГодМесяц',
+    Year(DateId) &'-'& (1+ceil((DateId-floor(weekend( yearstart(DateId),0,0)))/7)) as 'ГодНеделя'
+;
+load date('$(DateStart)' + IterNo() -1) as DateId
+autogenerate 1
+while ('$(DateStart)'+IterNo()-1)<='$(DateFinish)';
+
+
+КалендарьPrev:
+add LOAD
+    Дата as ДатаП,
+    Неделя as НеделяП, 
+    Месяц as  МесяцП,
+    Квартал as КварталП,
+    Год as ГодП
+Resident Calendar;
